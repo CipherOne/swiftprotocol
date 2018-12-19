@@ -41,8 +41,8 @@ Universal Basic Income (UBI) is an implementation of the Decentralized Autonomou
   * [Round Robin Order Attack](#round-robin-order-attack)
   * [Deactivation of an Identity Provider](#deactivation-of-an-identity-provider)
 - [Constitution](#constitution)
-- [Connection to Cypher1 UBI](#connection-to-cipher1 ubi)
-  * [Cypher1 UBI Features](#cipher1 ubi-features)
+- [Connection to UBI](#connection-to-ubi)
+  * [UBIT Features](#UBIT ubi-features)
 - [References](#references)
 
 ## Introduction
