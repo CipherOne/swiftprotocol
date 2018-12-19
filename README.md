@@ -5,7 +5,7 @@ The Universal Basic Income protocol is the DAO-based protocol implementing the U
 Example: **https://www.swiftdemand.com/**
 
 ## Abstract
-Universal Basic Income (UBI) is an implementation of the Decentralized Autonomous Organization (DAO) by AI providing UBI through the Universal Basic Income Token (UBIT), its electronic currency used for transactions on the Universal Basic Income blockcahin,designed with [low transaction latency](#transaction-latency), the ability to [scale to ever-ascending transactions per second](#erever-ascending transactions-per-second;TPS), [zero transaction fees](#0-transaction-fees), and [dispute resolution for disputed transactions](#buyer--seller-protections). UBI is distributed on a daily basis to all participants. This paper is written to give the clearest understanding of how the Protocol works.
+Universal Basic Income (UBI) is an implementation of the Decentralized Autonomous Organization (DAO) by AI providing UBI through the Universal Basic Income Token (UBIT), its electronic currency used for transactions on the Universal Basic Income blockcahin designed with [low transaction latency](#transaction-latency), the ability to [scale to ever-ascending transactions per second](#erever-ascending transactions-per-second;TPS), [zero transaction fees](#0-transaction-fees), and [dispute resolution for disputed transactions](#buyer--seller-protections). UBI is distributed on a daily basis to all participants. This paper is written to give the clearest understanding of how the Protocol works.
 
 - [Introduction](#introduction)
 - [Account Types](#account-types)
