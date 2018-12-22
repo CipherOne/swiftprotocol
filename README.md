@@ -5,7 +5,7 @@ The Universal Basic Income protocol is the DAO-based protocol implementing the U
 Example: **https://www.swiftdemand.com/**
 
 ## Abstract
-Universal Basic Income (UBI) is an implementation of the Decentralized Autonomous Organization (DAO) by AI providing UBI through the Universal Basic Income Token (UBIT), its electronic currency used for transactions on the Universal Basic Income blockcahin designed with [low transaction latency](#transaction-latency), the ability to [scale to ever-ascending transactions per second](#erever-ascending transactions-per-second;TPS), [zero transaction fees](#0-transaction-fees), and [dispute resolution for disputed transactions](#buyer--seller-protections). UBI is distributed on a daily basis to all participants. This paper is written to give the clearest understanding of how the Protocol works.
+Universal Basic Income (UBI) is an implementation of the Decentralized Autonomous Organization (DAO) by AI providing UBI through the Universal Basic Income Token (UBIT), its electronic currency used for transactions on the Universal Basic Income blockcahin designed with [low transaction latency](#transaction-latency), the ability to [scale to ever-ascending transactions per second](#ever-ascending transactions-per-second;TPS), [zero transaction fees](#0-transaction-fees), and [dispute resolution for disputed transactions](#buyer--seller-protections). UBI is distributed on a daily basis to all participants. This paper is written to give the clearest understanding of how the Protocol works.
 
 - [Introduction](#introduction)
 - [Account Types](#account-types)
@@ -146,7 +146,7 @@ Both Delegated Nodes and Identity Providers receive a salary in UBITs for their 
 Delegated Nodes will each receive an equal salary. The Delegated Nodes themselves will vote on their own salary--with the constraint that the salary must stay within a certain percentage of the previous salary. In the event that Delegated Nodes attempt to abuse this power, it's the responsibility of Citizens to [vote out the nodes](#election-of-delegated-nodes).
 
 ### Identity Provider Salary
-The _Salary Multiplier_ for Identity Providers is decided by the Delegated Nodes. An Identity Provider's salary is determined by multiplying the number of Swifts that have been claimed by Citizens under that specific Identity Provider by the Salary Multiplier. For example, if the Salary Multiplier is 0.01 and the Identity Provider has 100,000 active validated citizens that claimed 5,000,000 Swifts during that day, the Identity Provider will receive 50,000 UBITs at the first block after midnight UTC. 
+The _Salary Multiplier_ for Identity Providers is decided by the Delegated Nodes. An Identity Provider's salary is determined by multiplying the number of UBITs that have been claimed by Citizens under that specific Identity Provider by the Salary Multiplier. For example, if the Salary Multiplier is 0.01 and the Identity Provider has 100,000 active validated Citizens that claimed 5,000,000 Swifts during that day, the Identity Provider will receive 50,000 UBITs at the first block after midnight UTC. 
 
 ## Reserved Funds
 30 Billion UBITs will be reserved; these UBITs are not controlled by any central source. Delegated Nodes have the ability to award these funds to proposals with a majority vote. It's the responsibility of the Delegated Nodes to assign these funds on an as-needed basis to Identity Providers, Delegated Nodes, Citizens, or Entities in an effort to further the success of this Protocol.
@@ -199,13 +199,13 @@ Due to the fact that this Protocol directly interacts with the real world throug
 * Identity Providers should be [banned](#delegated-node-voting) for the following reasons:
   * Weak approval process allowing Sybil accounts--whether due to malice or negligence.
   * Failing to provide adequate dispute resolution for transactions.
-  * Not performing their duty to approve new Swift Citizens.
+  * Not performing their duty to approve new Citizens.
   * Unwillingness to cooperate with other Identity Providers on the platform.
 * Proposals that are approved for funding should remain relatively liberal when the protocol is in its early stages and should slowly become more strict over time.
 * Identity Providers should shield the user from the knowledge that there is a one-week incubation period and that transactions can take a few seconds to process. From the user's perspective, it's important that SwiftDemand appears to function as efficiently as a centralized system. In the event something does go wrong, it's the responsibility of the Identity Provider to take the loss to remedy the situation.
 
 ## Connection To SwiftDemand
-This Protocol is simply the protocol that has been outlined above. SwiftDemand will be the initial Identity Provider on this Protocol and all Swifts that exist on SwiftDemand at the time of launching the Mainnet will be transferred at a 1:1 ratio to UBITs. Citizens will be required to undergo stricter Identity Verification requirements at this time to comply with KYC<sup>[[8]](#8)</sup> and AML<sup>[[9]](#9)</sup>. 
+This Protocol is simply the protocol that has been outlined above. SwiftDemand will be the initial Identity Provider on this Protocol and all Swifts that exist on SwiftDemand at the time of launching the UBIT Mainnet will be transferred at a 1:1 ratio, Swifts to UBITs. Citizens will be required to undergo stricter Identity Verification requirements at this time to comply with KYC<sup>[[8]](#8)</sup> and AML<sup>[[9]](#9)</sup>. 
 
 ### SwiftDemand Features
 SwiftDemand is designed to be an extremely user-friendly platform that requires no prior knowledge of cryptocurrency--setting the standard for future Identity Providers. SwiftDemand provides an API as well as a marketplace to make it as easy as possible to transfer Swifts for goods and services.
