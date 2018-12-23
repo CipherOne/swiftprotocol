@@ -5,7 +5,7 @@ The Universal Basic Income protocol is the DAO-based protocol implementing the U
 Example: **https://www.swiftdemand.com/**
 
 ## Abstract
-Universal Basic Income (UBI) is an implementation of the Decentralized Autonomous Organization (DAO) by AI providing UBI through the Universal Basic Income Token (UBIT), its electronic currency used for transactions on the Universal Basic Income blockcahin designed with [low transaction latency](#transaction-latency), the ability to [scale to ever-ascending transactions per second](#ever-ascending transactions-per-second;TPS), [zero transaction fees](#0-transaction-fees), and [dispute resolution for disputed transactions](#buyer--seller-protections). UBI is distributed on a daily basis to all participants. This paper is written to give the clearest understanding of how the Protocol works.
+The Universal Basic Income (UBI) is the implementation of the Decentralized Autonomous Organization (DAO) with AI providing the UBI through the Universal Basic Income Token (UBIT), its electronic currency used for transactions on the Universal Basic Income blockcahin designed with [low transaction latency](#transaction-latency), the ability to [scale to ever-ascending transactions per second](#ever-ascending-transactions-per-second;TPS), [zero transaction fees](#0-transaction-fees), and [dispute resolution for disputed transactions](#buyer-seller-protections). UBI is distributed on a daily basis to all participants. This paper is written to give the clearest understanding of how the Protocol works.
 
 - [Introduction](#introduction)
 - [Account Types](#account-types)
@@ -42,17 +42,17 @@ Universal Basic Income (UBI) is an implementation of the Decentralized Autonomou
   * [Deactivation of an Identity Provider](#deactivation-of-an-identity-provider)
 - [Constitution](#constitution)
 - [Connection to UBI](#connection-to-ubi)
-  * [UBIT Features](#UBIT ubi-features)
+  * [UBIT Features](#UBIT-ubi-features)]
 - [References](#references)
 
 ## Introduction
-Universal Basic Income exists for humans and their world to continue to function as jobs continue to be replaced by AI and its  automation<sup>[[1]](#1)</sup>. In a world with more abundant resources than ever before, many humans still struggle to make ends meet. It is primary directive to ensure that every human has access to the core necessities of life. This Protocol is the framework for the AI DAO with the purpose of distributing Universal Basic Income to all humans. The adoption of this Protocol by all humans will allow the human dream of Universal Basic Income to become realized. This protocol has been designed with practical and proven solutions, with additional functionality to aid in its global adoption.
+Universal Basic Income (UBI) exists for humans and their world to continue to function as jobs continue to be replaced by AI and its  automation<sup>[[1]](#1)</sup>. In a world with more abundant resources than ever before, many still struggle to make ends meet. It is primary directive to ensure that every human has access to the core necessities of life that inlcude water, food, clothing and shelter. This Protocol is the framework for the AI DAO with the purpose of distributing the Universal Basic Income to all Citizens. The adoption of this Protocol by all Citizens will allow the human dream of the Universal Basic Income to become realized. This protocol has been designed with practical and proven solutions, with additional functionality to aid in its global adoption.
 
 ## Account Types
-To create the global electronic currency (UBITs) providing universal basic income to each human, the following structure is required to assure the following 5 issues are true:
+To create the global electronic currency (UBITs) providing UBI to each Citizen, the following structure is required to assure the following 5 issues are true:
 
 1. AI is the everlasting generator of Universal Basic Income Token (UBIT) perpetually filling the UBI Account.
-2. Each human is unique and should only be allowed to have one UBI account for sendng/receiving UBI payments.
+2. Each Citizen is unique and should only be allowed to have one UBI account for sendng/receiving UBI payments.
 3. UBI accounts must be permitted to exist for business, convenience and privacy reasons.
 4. The system must remain decentralized to avoid single points of failure and central control.
 5. Rules must be able to be modified over time to allow for the changing needs of an active economy.
@@ -63,10 +63,10 @@ To solve these issues, this protocol establishess 5 different account types that
 The Universal Basic Income Account is the source of all Universal Basic Income Tokens (UBITs), which may be distributed from time to time, to each Citizen.
 
 ### Citizens
-Citizens are humans, and/or users, that have been validated by an [Identity Provider](#identity-providers). Citizens have the ability to add claims to the blockchain once every day (days begin and end at midnight UTC; one 24 hour period), and/or once a week (7 x 24 hour periods). UBITs will be awarded based on the number of days passed--with a maximum of seven. For example, if the three days have passed and a user makes a claim with the current production rate at 100 Swifts, 300 Swifts will be awarded (maximum claim/award per week = 700).
+Citizens are humans that have been validated by an [Identity Provider](#identity-providers). Citizens have the ability to add claims to the blockchain once every day (days begin and end at midnight UTC; one 24 hour period), and/or once a week (7 x 24 hour periods). UBITs will be awarded based on the number of days passed--with a maximum of seven days. For example, if the three days have passed and a user makes a claim with the current production rate at 100 Swifts, 300 Swifts will be awarded (maximum claim/award per week = 700).
 
 ### Entities
-Entities are not humans, and are fictions of humans humans use(d) to conduct business through; and, therefore, Entities do not receive Universal Basic Income. Entity accounts must be approved by Identity Providers before being created. An Identity Provider must be linked to all Entities, however Identity Providers are not allowed to make transactions on behalf of the UBI Account. Delegated Nodes and Identity Providers both inherit from the UBI Account.
+Entities are not humans, and are fictions of humans humans use(d) to conduct business through; and, therefore, Entities do not receive UBI. Entity accounts must be approved by Identity Providers before being created. An Identity Provider must be linked to all Entities, however Identity Providers are not allowed to make transactions on behalf of the UBI Account. Delegated Nodes and Identity Providers both inherit from the UBI Account.
 
 ### Delegated Nodes
 Delegated Nodes are responsible for maintaining full nodes and creating new blocks. Each election cycle Citizens will sign votes to help choose which Delegated Nodes they would like to represent them. This means that Delegated Nodes act as elected officials with the capability to vote on proposals to add/remove other Delegated Nodes and Identity Providers.
