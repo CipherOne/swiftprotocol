@@ -42,28 +42,28 @@ The Universal Basic Income (UBI) is the implementation of the Decentralized Auto
   * [Deactivation of an Identity Provider](#deactivation-of-an-identity-provider)
 - [Constitution](#constitution)
 - [Connection to UBI](#connection-to-ubi)
-  * [UBIT Features](#UBIT-ubi-features)]
+  * [UBIT Features](#UBIT-ubi-features)
 - [References](#references)
 
 ## Introduction
-Universal Basic Income (UBI) exists for humans and their world to continue to function as jobs continue to be replaced by AI and its  automation<sup>[[1]](#1)</sup>. In a world with more abundant resources than ever before, many still struggle to make ends meet. It is primary directive to ensure that every human has access to the core necessities of life that inlcude water, food, clothing and shelter. This Protocol is the framework for the AI DAO with the purpose of distributing the Universal Basic Income to all Citizens. The adoption of this Protocol by all Citizens will allow the human dream of the Universal Basic Income to become realized. This protocol has been designed with practical and proven solutions, with additional functionality to aid in its global adoption.
+Universal Basic Income (UBI) must exist for humans and their world to continue to function as jobs continue to be replaced by Artificial Intelligence (AI) and automation <sup>[[1]](#1)</sup>. In a world with more abundant resources than ever before, many still struggle to make ends meet, and it is a primary directive to ensure every human has access to the core necessities of life that inlcudes water, food, clothing and shelter. This Protocol is the framework for the AI Decentralized Autonomous Organization (DAO) with the purpose of distributing Universal Basic Income to each Citizen throguh the UBI blockchain and the Universal Basic Income Token (UBIT). The adoption of this Protocol by all humans will allow the human dream of the Universal Basic Income to become realized by each Citizen. This protocol has been designed with practical and proven solutions, with additional functionality to aid in its global adoption.
 
 ## Account Types
-To create the global electronic currency (UBITs) providing UBI to each Citizen, the following structure is required to assure the following 5 issues are true:
+To create the global electronic currency capable of providing UBI to each Citizen, the following structure is required:
 
-1. AI is the everlasting generator of the Universal Basic Income Token(s) (UBIT)s perpetually filling the UBI Account.
+1. AI is the generator of the Universal Basic Income Token(s) (UBIT)s perpetually filling the UBI Account.
 2. Each Citizen is unique and is allowed to have one UBI account for sendng/receiving UBI payments.
 3. Entity accounts must be permitted to exist for business, convenience and privacy reasons.
 4. The system must remain decentralized to avoid single points of failure and central control.
 5. Rules must be able to be modified over time to allow for the changing needs of an active economy.
 
-To solve these issues, this protocol establishess 5 different account types that together, fullfil these different responsibilities.
+Resolving these issues, this protocol establishess 5 different account types that together, fullfil these different responsibilities.
 
 ### The UBI Account
 The Universal Basic Income Account is the source of all Universal Basic Income Tokens (UBITs), which may be distributed from time to time, to each Citizen.
 
 ### Citizens
-Citizens are humans that have been validated by an [Identity Provider](#identity-providers). Citizens have the ability to add UBIT claims to the blockchain once every day (days begin and end at midnight UTC; one 24 hour period), and/or once a week (7 x 24 hour periods). UBITs will be awarded based on the number of days passed--with a maximum of seven days. For example, if the three days have passed and a Citizen makes a claim with the current production rate at 100 UBITs, 300 UBITs will be awarded (maximum claim/award per week = 700 UBITs).
+Citizens are humans that have been validated by an [Identity Provider](#identity-providers). Citizens have the ability to add UBIT claims tthrough the blockchain once every day (days begin and end at midnight UTC; one 24 hour period), and/or once a week (7 x 24 hour periods). UBITs will be awarded based on the number of days passed--with a maximum of seven days. For example, if the three days have passed and a Citizen makes a claim with the current production rate at 100 UBITs eahc day, 300 UBITs will be awarded (maximum claim/award per week = 700 UBITs).
 
 ### Entities
 Entities are not humans, and are fictions of humans that Citizens use(d) to conduct business through; and, therefore, Entities do not receive UBI. Entity accounts must be approved by Identity Providers before being created by a Citizen. An Identity Provider must be linked to all Entities of Citizens the Identity Provider has verified, however Identity Providers are not allowed to make transactions on behalf of the UBI Account. Delegated Nodes and Identity Providers both inherit and/or earn UBITs from the UBI Account.
@@ -82,9 +82,9 @@ Identity Providers are responsible for validating the identity of Citizens and c
 * Rescue orphaned UBI accounts of Citizens
 
 ## Income Distribution
-The goal of this Protocol income distribution model is to provide a fair method of providing UBITs to each Citizen. The distribution method also must ensure that the amount of UBITs entering the system should never cause a decrease in value. To more quickly reach the state where a mature economy has formed, early Citizens will receive extra daily UBITs during Stage One.
+The goal of this Protocol's income distribution model is to provide a fair method of providing UBITs to each Citizen. The distribution method also must ensure that the amount of UBITs entering the system should never cause a decrease in value. To more quickly reach the state where a mature economy has formed, early Citizens will receive extra daily UBITs during Stage One.
 
-UBITs are distributed to Citizens on a daily basis with a maximum of seven unclaimed days of UBITs. A Citizen must explicitly claim their UBITs at least once per week to convert their *Unclaimed UBITs* to normal *UBITs*. Days are marked by blocks that occur between 00:00 UTC to 23:59 UTC.
+UBITs are distributed to each Citizen on a daily basis with a maximum of seven unclaimed days of UBITs. A Citizen must explicitly claim their UBITs at least once per week to convert their *Unclaimed UBITs* to normal *UBITs*. Days are marked by blocks that occur between 00:00 UTC to 23:59 UTC.
 
 The total number of UBITs targeted to be added to the economy in Stage One is 70 Billion. After this stage has been reached, Stage Two will limit the amount of new UBITs that enter the economy to a healthy inflation rate.
 
@@ -100,7 +100,7 @@ When a Citizen joins, there's an option to include the public key of the Citizen
 ## DAO Based Governance
 Governance is an integral part of this Protocol as it allows for outside data to be safely used for identity verification and economic control. However, the decentralized and autonomous elements of this Protocol allow certain rules to be set in stone. These rules ensure a fair system exists where nobody has the ability to cheat in a way that is possible with centralized systems.
 
-This Protocol features an internal system that simulates a decentralized government. Citizens have the responsibility to elect representatives known as [Delegated Nodes](#delegated-nodes) that will have various powers within the government. These Delegated Nodes are required to both maintain the blockchain, forge new blocks, and vote on proposals.
+This Protocol features an internal system that simulates a decentralized government. Citizens have the responsibility to elect their representatives known as [Delegated Nodes](#delegated-nodes) that will have various powers within the government. These Delegated Nodes are required to both maintain the blockchain, forge new blocks, and vote on proposals.
 
 ### Election of Delegated Nodes
 Each Citizen has the ability to cast one vote on the network during each election of Delegated Nodes. The Delegated Nodes that receive the most votes will be elected to serve during that election cycle. The number of Delegated Nodes is decided by the following formula: `Max(10, (citizens/100000))`
@@ -120,13 +120,13 @@ Delegated Nodes have the following abilities
 * Vote on the [Salary Multiplier for Identity Providers](#identity-provider-salary).
 * Vote to approve or disapprove [funding proposals](#funding-proposals).
 
-To perform these abilities, a proposal must be submitted to the blockchain by a Delegated Node. All other Delegated Nodes on the network will then vote on the proposal. Any proposal that receives 50% + 1 votes within 24 hours of submission will be executed.
+To perform these abilities, a proposal must be submitted to the blockchain by a Delegated Node. All other Delegated Nodes on the network will then vote on the proposal, each Delagted Node having one vote. Any proposal that receives 50% + 1 votes within 24 hours of submission will be executed.
 
 ## Transaction Capabilities
-This Protocol is built to be a transactional currency. This means that exchanging money in the form of UBITs needs to be *at least* as convenient and safe as traditional banking systems. Four main factors have been focused on that will allow transferring UBITs to be as simple as clicking a button or swiping a credit card.
+This Protocol is built to be a transactional currency. This means that exchanging currency in the form of UBITs needs to be *at least* as convenient and safe as traditional banking systems. Four main factors have been focused on that will allow transferring UBITs to be as simple as clicking a button or swiping a credit card.
 
 ### Transactions Per Second
-Due to the controlled nature of the Delegated Node network, nodes can work to forge blocks extremely fast with a targeted time of two seconds per block implementing the Delegated-Proof-of-Identity (DPOI) algorithm and consensus mechanism similar to the Proof of Beleivablity (POB) algorithms used by IOST in the consensus of Delegated Nodes forging blocks<sup>[[2]](#2)</sup>, each Delegated Node having one vote, with only three Delegated Nodes needed to confirm a transation, proving it's possible to scale such a system to ever-ascending transactions per second<sup>[[3]](#3)</sup>. For comparison, Visa is able to scale to 24,000 TPS <sup>[[4]](#4)</sup>.
+Due to the controlled nature of the Delegated Node network, nodes can work to forge blocks extremely fast with a targeted time of two-three seconds per block by implementing the Delegated-Proof-of-Identity (DPOI) algorithm and consensus mechanism similar to the Proof of Beleivablity (POB) algorithms used by IOST in the consensus of Delegated Nodes forging blocks<sup>[[2]](#2)</sup>, each Delegated Node having one vote, needing only the Identity Provider to confirm a transation, proving it's possible to scale such a system to ever-ascending transactions per second<sup>[[3]](#3)</sup>. For comparison, Visa is able to scale to 24,000 TPS <sup>[[4]](#4)</sup>.
 
 ### Low Transaction Fees
 Transactions have no inherent cost, however [Identity Providers](#identity-providers) have the ability to set transaction fees--allowing them to have funds to resolve transaction disputes. This Protocol reserves 80% of each block to be used exclusively by Identity Providers. The space is further partitioned by Identity Provider--proportional to the number of Citizens each has verified with a minimum of 10 transactions per block. It's therefore the responsibility of Identity Providers to ensure that spam transactions are not added to the chain. The remaining 20% of each block will be open for transactions with a bidding system--in a similar manner to how Bitcoin functions <sup>[[5]](#5)</sup>.
