@@ -1,4 +1,4 @@
-# The Universal Basic Income Protocol and White Paper (Draft)
+# The Universal Basic Income Protocol/White Paper (Draft)
 
 The Universal Basic Income protocol is the DAO-based protocol implementing the Universal Basic Income (UBI)
 
@@ -51,9 +51,9 @@ Universal Basic Income (UBI) exists for humans and their world to continue to fu
 ## Account Types
 To create the global electronic currency (UBITs) providing UBI to each Citizen, the following structure is required to assure the following 5 issues are true:
 
-1. AI is the everlasting generator of Universal Basic Income Token (UBIT) perpetually filling the UBI Account.
-2. Each Citizen is unique and should only be allowed to have one UBI account for sendng/receiving UBI payments.
-3. UBI accounts must be permitted to exist for business, convenience and privacy reasons.
+1. AI is the everlasting generator of the Universal Basic Income Token(s) (UBIT)s perpetually filling the UBI Account.
+2. Each Citizen is unique and is allowed to have one UBI account for sendng/receiving UBI payments.
+3. Entity accounts must be permitted to exist for business, convenience and privacy reasons.
 4. The system must remain decentralized to avoid single points of failure and central control.
 5. Rules must be able to be modified over time to allow for the changing needs of an active economy.
 
@@ -63,28 +63,28 @@ To solve these issues, this protocol establishess 5 different account types that
 The Universal Basic Income Account is the source of all Universal Basic Income Tokens (UBITs), which may be distributed from time to time, to each Citizen.
 
 ### Citizens
-Citizens are humans that have been validated by an [Identity Provider](#identity-providers). Citizens have the ability to add claims to the blockchain once every day (days begin and end at midnight UTC; one 24 hour period), and/or once a week (7 x 24 hour periods). UBITs will be awarded based on the number of days passed--with a maximum of seven days. For example, if the three days have passed and a user makes a claim with the current production rate at 100 Swifts, 300 Swifts will be awarded (maximum claim/award per week = 700).
+Citizens are humans that have been validated by an [Identity Provider](#identity-providers). Citizens have the ability to add UBIT claims to the blockchain once every day (days begin and end at midnight UTC; one 24 hour period), and/or once a week (7 x 24 hour periods). UBITs will be awarded based on the number of days passed--with a maximum of seven days. For example, if the three days have passed and a Citizen makes a claim with the current production rate at 100 UBITs, 300 UBITs will be awarded (maximum claim/award per week = 700 UBITs).
 
 ### Entities
-Entities are not humans, and are fictions of humans humans use(d) to conduct business through; and, therefore, Entities do not receive UBI. Entity accounts must be approved by Identity Providers before being created. An Identity Provider must be linked to all Entities, however Identity Providers are not allowed to make transactions on behalf of the UBI Account. Delegated Nodes and Identity Providers both inherit from the UBI Account.
+Entities are not humans, and are fictions of humans that Citizens use(d) to conduct business through; and, therefore, Entities do not receive UBI. Entity accounts must be approved by Identity Providers before being created by a Citizen. An Identity Provider must be linked to all Entities of Citizens the Identity Provider has verified, however Identity Providers are not allowed to make transactions on behalf of the UBI Account. Delegated Nodes and Identity Providers both inherit and/or earn UBITs from the UBI Account.
 
 ### Delegated Nodes
-Delegated Nodes are responsible for maintaining full nodes and creating new blocks. Each election cycle Citizens will sign votes to help choose which Delegated Nodes they would like to represent them. This means that Delegated Nodes act as elected officials with the capability to vote on proposals to add/remove other Delegated Nodes and Identity Providers.
+Delegated Nodes are responsible for maintaining full nodes and creating new blocks. Each election cycle Citizens will sign votes to help choose which Delegated Nodes they would like to represent them. This means that Delegated Nodes act as elected officials with the capability to vote on proposals that include adding/removing other Delegated Nodes and Identity Providers.
 
 ### Identity Providers
-Identity Providers are responsible for validating the identity of Citizens and creating new citizens by generating a keypair for each new Citizen and including the identity on the blockchain. Identity Providers have the added responsibility of protecting Citizens whose keys they control with buyer and seller protections.
+Identity Providers are responsible for validating the identity of Citizens and creating new accounts of Citizens by generating a keypair for each Citizen and including the identity on the blockchain. Identity Providers have the added responsibility of protecting each Citizen whose keys they control with buyer and seller protections.
 
 **Identity Providers** have the following capabilities:
-* Add new Citizens
-* Freeze/Unfreeze Citizens they have verified
-* Make transactions on behalf of Citizens they have verified
-* Delete Citizens they have verified
-* Rescue orphaned Citizens
+* Add Citizens and accounts of Citizens to the blockchain
+* Freeze/Unfreeze UBI accounts of Citizens they have verified
+* Make transactions to/from UBI accounts of Citizens they have verified
+* Delete UBI accounts of Citizens they have verified
+* Rescue orphaned UBI accounts of Citizens
 
 ## Income Distribution
-The goal of this Protocol income distribution model is to provide a fair method of providing UBITs to each Citizen. The distribution method also must ensure that the amount of UBITs entering the system should never cause a decrease in value. To more quickly reach the state where a mature economy has formed, early users will receive extra daily UBITs during Stage One.
+The goal of this Protocol income distribution model is to provide a fair method of providing UBITs to each Citizen. The distribution method also must ensure that the amount of UBITs entering the system should never cause a decrease in value. To more quickly reach the state where a mature economy has formed, early Citizens will receive extra daily UBITs during Stage One.
 
-UBITs are distributed to users on a daily basis with a maximum of seven unclaimed days of UBITs. A Citizen must explicitly claim their UBITs at least once per week to convert their *Unclaimed UBITs* to normal *UBITs*. Days are marked by blocks that occur between 00:00 UTC to 23:59 UTC.
+UBITs are distributed to Citizens on a daily basis with a maximum of seven unclaimed days of UBITs. A Citizen must explicitly claim their UBITs at least once per week to convert their *Unclaimed UBITs* to normal *UBITs*. Days are marked by blocks that occur between 00:00 UTC to 23:59 UTC.
 
 The total number of UBITs targeted to be added to the economy in Stage One is 70 Billion. After this stage has been reached, Stage Two will limit the amount of new UBITs that enter the economy to a healthy inflation rate.
 
@@ -95,7 +95,7 @@ In Stage One, income will be generated at an accelerated rate so the economy can
 After the 70 Billion cap has been reached by following the formula of Stage One, Stage Two will come into effect. During this stage, new UBITs will be given out to users at an inflation rate decided by the [Delegated Nodes](#delegated-node-voting) to all users in the ecosystem. It's their responsibility to choose an inflation rate that will avoid devaluing existing currency while ensuring the distribution is sufficiently large.
 
 ### Referral System
-When a new Citizen joins, there's an option to include the public key of the Citizen that referred them. Referral bonuses are calculated using `5 * Income Distribution Multiplier`. For example, if there are 100,000 Citizens at the time of a referral, the bonus would be 500 UBITs. 
+When a Citizen joins, there's an option to include the public key of the Citizen that referred them. Referral bonuses are calculated using `5 * Income Distribution Multiplier`. For example, if there are 100,000 Citizens at the time of a referral, the bonus would be 500 UBITs. 
 
 ## DAO Based Governance
 Governance is an integral part of this Protocol as it allows for outside data to be safely used for identity verification and economic control. However, the decentralized and autonomous elements of this Protocol allow certain rules to be set in stone. These rules ensure a fair system exists where nobody has the ability to cheat in a way that is possible with centralized systems.
@@ -112,7 +112,7 @@ Elections will occur every six months for the first five years. Citizens will ha
 Delegated Nodes have the following abilities
 * Elect new Identity Providers.
 * Ban existing Identity Providers.
-* Revert the chain state to some time within the past 72 hours.
+* Revert the blockchain state to some time within the past 72 hours.
 * Ban Delegated Nodes.
 * Elect replacement Delegated Nodes.
 * Choose the inflation rate in [Stage Two](#stage-two).
@@ -120,13 +120,13 @@ Delegated Nodes have the following abilities
 * Vote on the [Salary Multiplier for Identity Providers](#identity-provider-salary).
 * Vote to approve or disapprove [funding proposals](#funding-proposals).
 
-To perform these abilities, a proposal must be submitted to the blockchain by one Delegated Node. All other Delegated Nodes on the network will then vote on the proposal. Any proposal that receives 50% + 1 votes within 24 hours of submission will be executed.
+To perform these abilities, a proposal must be submitted to the blockchain by a Delegated Node. All other Delegated Nodes on the network will then vote on the proposal. Any proposal that receives 50% + 1 votes within 24 hours of submission will be executed.
 
 ## Transaction Capabilities
 This Protocol is built to be a transactional currency. This means that exchanging money in the form of UBITs needs to be *at least* as convenient and safe as traditional banking systems. Four main factors have been focused on that will allow transferring UBITs to be as simple as clicking a button or swiping a credit card.
 
 ### Transactions Per Second
-Due to the controlled nature of the Delegated Node network, nodes can work to forge blocks extremely fast with a targeted time of three seconds per block. Other algorithms that have implemented proof-of-stake algorithms (such as EOS--which has the same functionality of having selected speaker nodes that forge blocks<sup>[[2]](#2)</sup>) have proven that it's possible to scale such a system to millions of transactions per second<sup>[[3]](#3)</sup>. For comparison, Visa is able to scale to 24,000 TPS <sup>[[4]](#4)</sup>.
+Due to the controlled nature of the Delegated Node network, nodes can work to forge blocks extremely fast with a targeted time of two seconds per block implementing the Delegated-Proof-of-Identity (DPOI) algorithm and consensus mechanism similar to the Proof of Beleivablity (POB) algorithms used by IOST in the consensus of Delegated Nodes forging blocks<sup>[[2]](#2)</sup>, each Delegated Node having one vote, with only three Delegated Nodes needed to confirm a transation, proving it's possible to scale such a system to ever-ascending transactions per second<sup>[[3]](#3)</sup>. For comparison, Visa is able to scale to 24,000 TPS <sup>[[4]](#4)</sup>.
 
 ### Low Transaction Fees
 Transactions have no inherent cost, however [Identity Providers](#identity-providers) have the ability to set transaction fees--allowing them to have funds to resolve transaction disputes. This Protocol reserves 80% of each block to be used exclusively by Identity Providers. The space is further partitioned by Identity Provider--proportional to the number of Citizens each has verified with a minimum of 10 transactions per block. It's therefore the responsibility of Identity Providers to ensure that spam transactions are not added to the chain. The remaining 20% of each block will be open for transactions with a bidding system--in a similar manner to how Bitcoin functions <sup>[[5]](#5)</sup>.
@@ -146,13 +146,13 @@ Both Delegated Nodes and Identity Providers receive a salary in UBITs for their 
 Delegated Nodes will each receive an equal salary. The Delegated Nodes themselves will vote on their own salary--with the constraint that the salary must stay within a certain percentage of the previous salary. In the event that Delegated Nodes attempt to abuse this power, it's the responsibility of Citizens to [vote out the nodes](#election-of-delegated-nodes).
 
 ### Identity Provider Salary
-The _Salary Multiplier_ for Identity Providers is decided by the Delegated Nodes. An Identity Provider's salary is determined by multiplying the number of UBITs that have been claimed by Citizens under that specific Identity Provider by the Salary Multiplier. For example, if the Salary Multiplier is 0.01 and the Identity Provider has 100,000 active validated Citizens that claimed 5,000,000 Swifts during that day, the Identity Provider will receive 50,000 UBITs at the first block after midnight UTC. 
+The _Salary Multiplier_ for Identity Providers is decided by the Delegated Nodes. An Identity Provider's salary is determined by multiplying the number of UBITs that have been claimed by Citizens under that specific Identity Provider by the Salary Multiplier. For example, if the Salary Multiplier is 0.01 and the Identity Provider has 100,000 active validated Citizens that claimed 5,000,000 UBITs during that day, the Identity Provider will receive 50,000 UBITs at the first block after midnight UTC. 
 
 ## Reserved Funds
 30 Billion UBITs will be reserved; these UBITs are not controlled by any central source. Delegated Nodes have the ability to award these funds to proposals with a majority vote. It's the responsibility of the Delegated Nodes to assign these funds on an as-needed basis to Identity Providers, Delegated Nodes, Citizens, or Entities in an effort to further the success of this Protocol.
 
 ### Funding Proposals
-When a Citizen or Identity Provider requires funds to perform some task, they must submit a public funding proposal. This proposal will be written in plain text, signed with the requester's private key and then added to the blockchain. Nodes will then have one week to vote on the proposal. Non-votes are counted as "No"s. A majority consensus is required for the funds to be transferred.
+When a Citizen or Identity Provider requires funds to perform some task, they must submit a public funding proposal. This proposal will be written in plain text, signed with the requester's public key and then added to the blockchain. Nodes will then have one week to vote on the proposal. Non-votes are counted as "No"s. A majority consensus is required for the funds to be transferred.
 
 ## Consensus Protocol
 A new consensus mechanism is used in this Protocol that allows for extremely fast block times while still being trustable. This Protocol uses the consensus mechanism called DPOI (delegated Proof of Identity). The mechanism works almost identically to DPOS (delegated Proof of Stake) <sup>[[7]](#7)</sup>. The primary difference is that in DPOS  Citizens have a say proportional to the amount of stake they own in the currency. In DPOI, each Citizen has the ability to cast a single vote regardless of the stake they own.
@@ -184,7 +184,7 @@ In the event that an Identity Provider attempts to perform fraud, they can be ba
 ## Constitution
 Due to the fact that this Protocol directly interacts with the real world through decentralized governance, there are certain rules which cannot be programmatically enforced yet are crucial for this Protocol to function as intended. Delegated Nodes or Identity Providers that perform actions in contradiction to the items listed in the constitution should be [banned](#delegated-node-voting).
 
-* Users shall all be treated equal and given the same amount of UBITs regardless of their background.
+* Citizens shall all be treated equal and given the same amount of UBITs regardless of their background.
 * Identity Providers should share a decentralized internal system of identities to guarantee Sybil accounts cannot be created. The internal system should also make any potential transitions of Citizens easier to accomplish.
 * Delegated Nodes should be [banned](#delegated-node-voting) for the following reasons:
   * Regularly not performing their duty to vote on proposals.
@@ -193,16 +193,16 @@ Due to the fact that this Protocol directly interacts with the real world throug
   * Unreasonable policy voting that demonstrates harmful favoritism.
 * Official announcements should always be signed to protect against forgery.
 * The inflation rate should be balanced with the following factors in mind:
-  * Avoiding an inflation rate that would overly devalue existing Swifts.
+  * Avoiding an inflation rate that would overly devalue existing UBITs.
   * Real-world effects that would result from a change in the rate.
   * The amount of income required to provide the basic necessities in life.
 * Identity Providers should be [banned](#delegated-node-voting) for the following reasons:
   * Weak approval process allowing Sybil accounts--whether due to malice or negligence.
   * Failing to provide adequate dispute resolution for transactions.
-  * Not performing their duty to approve new Citizens.
+  * Not performing their duty to approve Citizens.
   * Unwillingness to cooperate with other Identity Providers on the platform.
 * Proposals that are approved for funding should remain relatively liberal when the protocol is in its early stages and should slowly become more strict over time.
-* Identity Providers should shield the user from the knowledge that there is a one-week incubation period and that transactions can take a few seconds to process. From the user's perspective, it's important that SwiftDemand appears to function as efficiently as a centralized system. In the event something does go wrong, it's the responsibility of the Identity Provider to take the loss to remedy the situation.
+* Identity Providers should shield Citizens from the knowledge that there is a one-week incubation period and that transactions can take a few seconds to process. From the Citizen's perspective, it's important that the UBI appears to function as efficiently as a centralized system. In the event something does go wrong, it's the responsibility of the Identity Provider to take the loss to remedy the situation.
 
 ## Connection To SwiftDemand
 This Protocol is simply the protocol that has been outlined above. SwiftDemand will be the initial Identity Provider on this Protocol and all Swifts that exist on SwiftDemand at the time of launching the UBIT Mainnet will be transferred at a 1:1 ratio, Swifts to UBITs. Citizens will be required to undergo stricter Identity Verification requirements at this time to comply with KYC<sup>[[8]](#8)</sup> and AML<sup>[[9]](#9)</sup>. 
