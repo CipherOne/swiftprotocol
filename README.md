@@ -1,11 +1,11 @@
 # The Universal Basic Income Protocol/White Paper (Draft)
 
-The Universal Basic Income protocol is the DAO-based protocol implementing the Universal Basic Income (UBI)
+The Universal Basic Income protocol is the DAO-based implemention of the Universal Basic Income (UBI)
 
 Example: **https://www.swiftdemand.com/**
 
 ## Abstract
-The Universal Basic Income (UBI) is the implementation of the Decentralized Autonomous Organization (DAO) with Artificial Intelligence (AI) providing the UBI through the Universal Basic Income Token (UBIT), the electronic currency used for transactions on the Universal Basic Income blockcahin designed with [low transaction latency](#transaction-latency), the ability to [scale to ever-ascending transactions per second](#ever-ascending-transactions-per-second;TPS), [zero transaction fees](#0-transaction-fees), and [dispute resolution for disputed transactions](#buyer-seller-protections). UBI is distributed on a daily basis to all participants. This paper is written to give the clearest understanding of how the Protocol works.
+The Universal Basic Income (UBI) is the implementation of the Decentralized Autonomous Organization (DAO) with Artificial Intelligence (AI) providing the UBI through the Universal Basic Income Token (UBIT), the electronic crypto currency used for transactions on the Universal Basic Income blockcahin designed with [low transaction latency](#transaction-latency), the ability to [scale to ever-ascending transactions per second](#ever-ascending-transactions-per-second;TPS), [zero transaction fees](#0-transaction-fees), and [dispute resolution for disputed transactions](#buyer-seller-protections). UBI is distributed on a daily basis to all participants. This paper is written to give the clearest understanding of how this Protocol works.
 
 - [Introduction](#introduction)
 - [Account Types](#account-types)
@@ -46,13 +46,13 @@ The Universal Basic Income (UBI) is the implementation of the Decentralized Auto
 - [References](#references)
 
 ## Introduction
-Universal Basic Income (UBI) must exist for humans and their world to continue to function as jobs continue to be replaced by AI and automation <sup>[[1]](#1)</sup>. In a world with more abundant resources than ever before, many still struggle to make ends meet, and it is a primary directive to ensure every human has access to the core necessities of life that inlcudes water, food, clothing and shelter. This Protocol is the framework for the AI DAO with the purpose of distributing Universal Basic Income to each Citizen throguh the UBI blockchain and the Universal Basic Income Token (UBIT). The adoption of this Protocol by all humans will allow the human dream of the Universal Basic Income to become realized by each Citizen. This protocol has been designed with practical and proven solutions, with additional functionality to aid in its global adoption.
+Universal Basic Income (UBI) must exist for humans and their world to continue to function as jobs continue to be replaced by AI and automation <sup>[[1]](#1)</sup>. In a world with more abundant resources than ever before, many still struggle to make ends meet, and it is a primary directive to ensure every human has access to the core necessities of life that inlcudes water, food, clothing and shelter. This Protocol is the framework for the AI DAO with the purpose of distributing Universal Basic Income to each Citizen throguh the UBI blockchain, the UBI platform and the Universal Basic Income Token (UBIT). The mass adoption of this Protocol will allow the dream of the Universal Basic Income to become realized by each human/Citizen. This protocol has been designed with practical and proven solutions, with additional functionality to aid in its global adoption.
 
 ## Account Types
 To create the global electronic currency capable of providing UBI to each Citizen, the following structure is required:
 
 1. AI is the generator of the Universal Basic Income Token(s) (UBIT)s perpetually filling the UBI Account.
-2. Each Citizen is unique and is allowed to have one UBI account for sendng/receiving UBI payments.
+2. Each Citizen is unique and is allowed to have one UBI account for sendng/receiving UBITs.
 3. Entity accounts must be permitted to exist for business, convenience and privacy reasons.
 4. The system must remain decentralized to avoid single points of failure and central control.
 5. Rules must be able to be modified over time to allow for the changing needs of an active economy.
@@ -205,10 +205,10 @@ Due to the fact that this Protocol directly interacts with the real world throug
 * Identity Providers should shield Citizens from the knowledge that there is a one-week incubation period and that transactions can take a few seconds to process. From the Citizen's perspective, it's important that the UBI appears to function as efficiently as a centralized system. In the event something does go wrong, it's the responsibility of the Identity Provider to take the loss to remedy the situation.
 
 ## Connection To SwiftDemand
-This Protocol is simply the protocol that has been outlined above. SwiftDemand will be the initial Identity Provider on this Protocol and all Swifts that exist on SwiftDemand at the time of launching the UBIT Mainnet will be transferred at a 1:1 ratio, Swifts to UBITs. Citizens will be required to undergo stricter Identity Verification requirements at this time to comply with KYC<sup>[[8]](#8)</sup> and AML<sup>[[9]](#9)</sup>. 
+This Protocol is simply the protocol that has been outlined above. The SwiftDemand website will be the initial Identity Provider of this Protocol and all Swifts that exist on SwiftDemand website at the time of launching the UBIT Mainnet will be transferred at a 1:1 ratio, Swifts to UBITs. Citizens will be required to undergo stricter Identity Verification requirements at this time to comply with KYC<sup>[[8]](#8)</sup> and AML<sup>[[9]](#9)</sup>. 
 
 ### SwiftDemand Features
-SwiftDemand is designed to be an extremely user-friendly platform that requires no prior knowledge of cryptocurrency--setting the standard for future Identity Providers. SwiftDemand provides an API as well as a marketplace to make it as easy as possible to transfer Swifts for goods and services.
+SwiftDemand is designed to be an extremely user-friendly website and platform that requires no prior knowledge of cryptocurrency--setting the standard for future Identity Providers. SwiftDemand provides an API as well as a marketplace to make it as easy as possible to transfer Swifts for goods and services.
 
 ## References
 
