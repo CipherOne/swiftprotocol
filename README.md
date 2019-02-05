@@ -1,4 +1,4 @@
-# Articles Incorprating the Non Profit Universal Basic Income Corporation 
+# The Non Profit Universal Basic Income Corporation 
 
 The Universal Basic Income Corporation (UBIC) protocol is the DAO-based implemention of Universal Basic Income (UBI).
 
