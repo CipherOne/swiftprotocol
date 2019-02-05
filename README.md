@@ -1,11 +1,11 @@
-# The Universal Basic Income Protocol/White Paper (Draft)
+# The Non Profit Universal Basic Income Corporation's Articles of Incorpration
 
-The Universal Basic Income protocol is the DAO-based implemention of the Universal Basic Income (UBI)
+The Universal Basic Income Corporation's protocol is the DAO-based implemention of the Universal Basic Income (UBI).
 
 Example: **https://www.swiftdemand.com/**
 
 ## Abstract
-The Universal Basic Income (UBI) is the implementation of the Decentralized Autonomous Organization (DAO) with Artificial Intelligence (AI) providing the UBI through the Universal Basic Income Token (UBIT), the electronic crypto currency used for transactions on the Universal Basic Income blockcahin designed with [low transaction latency](#transaction-latency), the ability to [scale to ever-ascending transactions per second](#ever-ascending-transactions-per-second;TPS), [zero transaction fees](#0-transaction-fees), and [dispute resolution for disputed transactions](#buyer-seller-protections). UBI is distributed on a daily basis to all participants. This paper is written to give the clearest understanding of how this Protocol works.
+The Universal Basic Income (UBI) is the implementation of the Decentralized Autonomous Organization (DAO) through the Non Profit Universal Basic Income Corporation (UBIC)'s Artciles of Incorporation, with Artificial Intelligence (AI) providing the UBI through UBIC's blockchain (forked from the SwiftDemand blockchain forked from NEO blockchain) and the the Universal Basic Income Token (UBIT), the electronic crypto currency used for transactions on the UBIC blockcahin designed with [low transaction latency](#transaction-latency), the ability to [scale to ever-ascending transactions per second](#ever-ascending-transactions-per-second;TPS), [zero transaction fees](#0-transaction-fees), and [dispute resolution for disputed transactions](#buyer-seller-protections). UBI is distributed on a daily basis to all participants. This is the clearest understanding of how this Protocol works.
 
 - [Introduction](#introduction)
 - [Account Types](#account-types)
@@ -46,27 +46,27 @@ The Universal Basic Income (UBI) is the implementation of the Decentralized Auto
 - [References](#references)
 
 ## Introduction
-Universal Basic Income (UBI) must exist for humans and their world to continue to function as jobs continue to be replaced by AI and automation <sup>[[1]](#1)</sup>. In a world with more abundant resources than ever before, many still struggle to make ends meet, and it is a primary directive to ensure every human has access to the core necessities of life that inlcudes water, food, clothing and shelter. This Protocol is the framework for the AI DAO with the purpose of distributing Universal Basic Income to each Citizen throguh the UBI blockchain, the UBI platform and the Universal Basic Income Token (UBIT). The mass adoption of this Protocol will allow the dream of the Universal Basic Income to become realized by each human/Citizen. This protocol has been designed with practical and proven solutions, with additional functionality to aid in its global adoption.
+Universal Basic Income Corporation (UBIC) must exist for humans and their world to continue to function as jobs continue to be replaced by AI and automation <sup>[[1]](#1)</sup>. In a world with more abundant resources than ever before, many still struggle to make ends meet, and it is a primary directive to ensure every human has access to the core necessities of life that inlcudes water, food, clothing and shelter. This Protocol is the framework for the AI DAO with the purpose of distributing Universal Basic Income (UBI) to each Citizen throguh the UBIC blockchain, the UBIC platform and the Universal Basic Income Tokens (UBITs). The mass adoption of this Protocol will allow the dream of the Universal Basic Income to become realized by each human/Citizen of UBIC. This protocol has been designed with practical and proven solutions, with additional functionality to aid in its global adoption.
 
 ## Account Types
-To create the global electronic currency capable of providing UBI to each Citizen, the following structure is required:
+To create the global electronic currency capable of providing UBI to each Citizen of UBIC, the following structure is required:
 
-1. AI is the generator of the Universal Basic Income Token(s) (UBIT)s perpetually filling the UBI Account.
-2. Each Citizen is unique and is allowed to have one UBI account for sendng/receiving UBITs.
+1. AI is the generator of the Universal Basic Income Token(s) (UBIT)s perpetually filling the UBIC Account.
+2. Each Citizen is unique and is allowed to have one UBIC account for sendng/receiving UBITs.
 3. Entity accounts must be permitted to exist for business, convenience and privacy reasons.
 4. The system must remain decentralized to avoid single points of failure and central control.
 5. Rules must be able to be modified over time to allow for the changing needs of an active economy.
 
 Resolving these issues, this protocol establishess 5 different account types that together, fullfil these different responsibilities.
 
-### The UBI Account
-The Universal Basic Income Account is the source of all Universal Basic Income Tokens (UBITs), which may be distributed from time to time, to each Citizen.
+### The UBIC Account
+The Universal Basic Income Corporation's account is the source of all Universal Basic Income Tokens (UBITs), from which UBITs may be distributed from time to time, to each Citizen.
 
 ### Citizens
-Citizens are humans that have been validated by an [Identity Provider](#identity-providers). Citizens have the ability to add UBIT claims tthrough the blockchain once every day (days begin and end at midnight UTC; one 24 hour period), and/or once a week (7 x 24 hour periods). UBITs will be awarded based on the number of days passed--with a maximum of seven days. For example, if the three days have passed and a Citizen makes a claim with the current production rate at 100 UBITs eahc day, 300 UBITs will be awarded (maximum claim/award per week = 700 UBITs).
+Citizens are humans that have been validated by an [Identity Provider](#identity-providers). Citizens have the ability to add UBIT claims to the UBIC blockchain once every day (days begin and end at midnight UTC; one 24 hour period), and/or once a week (7 x 24 hour periods). UBITs will be awarded based on the number of days passed--with a maximum of seven days. For example, if the three days have passed and a Citizen makes a claim with the current production rate at 100 UBITs eahc day, 300 UBITs will be awarded (maximum claim/award per week = 700 UBITs).
 
 ### Entities
-Entities are not humans, and are fictions of humans that Citizens use(d) to conduct business through; and, therefore, Entities do not receive UBI. Entity accounts must be approved by Identity Providers before being created by a Citizen. An Identity Provider must be linked to all Entities of Citizens the Identity Provider has verified, however Identity Providers are not allowed to make transactions on behalf of the UBI Account. Delegated Nodes and Identity Providers both inherit and/or earn UBITs from the UBI Account.
+Entities are not humans, and are fictions of humans that Citizens use(d) to conduct business through; and, therefore, Entities do not receive UBI. Entity accounts must be approved by Identity Providers before being created by a Citizen. An Identity Provider must be linked to all Entities of Citizens the Identity Provider has verified, however Identity Providers are not allowed to make transactions on behalf of the UBI Account. Delegated Nodes and Identity Providers both inherit and/or earn UBITs from the UBIC Account.
 
 ### Delegated Nodes
 Delegated Nodes are responsible for maintaining full nodes and creating new blocks. Each election cycle Citizens will sign votes to help choose which Delegated Nodes they would like to represent them. This means that Delegated Nodes act as elected officials with the capability to vote on proposals that include adding/removing other Delegated Nodes and Identity Providers.
@@ -82,7 +82,7 @@ Identity Providers are responsible for validating the identity of Citizens and c
 * Rescue orphaned UBI accounts of Citizens
 
 ## Income Distribution
-The goal of this Protocol's income distribution model is to provide a fair method of providing UBITs to each Citizen. The distribution method also must ensure that the amount of UBITs entering the system should never cause a decrease in value. To more quickly reach the state where a mature economy has formed, early Citizens will receive extra daily UBITs during Stage One.
+The goal of this Protocol's income distribution model is to provide a fair method of providing UBI to each Citizen. The distribution method also must ensure that the amount of UBITs entering the system should never cause a decrease in value. To more quickly reach the state where a mature economy has formed, early Citizens will receive extra daily UBITs during Stage One.
 
 UBITs are distributed to each Citizen on a daily basis with a maximum of seven unclaimed days of UBITs. A Citizen must explicitly claim their UBITs at least once per week to convert their *Unclaimed UBITs* to normal *UBITs*. Days are marked by blocks that occur between 00:00 UTC to 23:59 UTC.
 
@@ -205,7 +205,7 @@ Due to the fact that this Protocol directly interacts with the real world throug
 * Identity Providers should shield Citizens from the knowledge that there is a one-week incubation period and that transactions can take a few seconds to process. From the Citizen's perspective, it's important that the UBI appears to function as efficiently as a centralized system. In the event something does go wrong, it's the responsibility of the Identity Provider to take the loss to remedy the situation.
 
 ## Connection To SwiftDemand
-This Protocol is simply the protocol that has been outlined above. The SwiftDemand website will be the initial Identity Provider of this Protocol and all Swifts that exist on SwiftDemand website at the time of launching the UBIT Mainnet will be transferred at a 1:1 ratio, Swifts to UBITs. Citizens will be required to undergo stricter Identity Verification requirements at this time to comply with KYC<sup>[[8]](#8)</sup> and AML<sup>[[9]](#9)</sup>. 
+This Protocol is simply the protocol that has been outlined above. The SwiftDemand website will be the initial Identity Provider of this Protocol and all Swifts that exist on SwiftDemand website at the time of launching the UBIC Mainnet will be transferred at a 1:1 ratio, Swifts to UBITs. Citizens will be required to undergo stricter Identity Verification requirements at this time to comply with KYC<sup>[[8]](#8)</sup> and AML<sup>[[9]](#9)</sup>. 
 
 ### SwiftDemand Features
 SwiftDemand is designed to be an extremely user-friendly website and platform that requires no prior knowledge of cryptocurrency--setting the standard for future Identity Providers. SwiftDemand provides an API as well as a marketplace to make it as easy as possible to transfer Swifts for goods and services.
