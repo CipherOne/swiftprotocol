@@ -5,7 +5,7 @@ The Universal Basic Income Corporation (UBIC) protocol is the DAO-based implemen
 Example: **https://www.swiftdemand.com/**
 
 ## Abstract
-The Universal Basic Income Corporation (UBIC) is the Decentralized Autonomous Organization (DAO) with Artificial Intelligence (AI) eventually providing the UBI through UBIC programs, blockchains (forked from the SwiftDemand blockchain forked from NEO blockchain) and Universal Basic Income Tokens (UBITs), the electronic cryptocurrency used for all transactions on the UBIC Main net blockcahin designed with [low transaction latency](#transaction-latency), the ability to [scale to ever-ascending transactions per second](#ever-ascending-transactions-per-second;TPS), [zero transaction fees](#0-transaction-fees), and [dispute resolution for disputed transactions](#buyer-seller-protections). UBI is distributed on a daily basis to each Citizen. This is the simplest understanding of how this Protocol works.
+The Universal Basic Income Corporation (UBIC) is the Decentralized Autonomous Organization (DAO) with Artificial Intelligence (AI) eventually providing the UBI through UBIC programs, blockchains (forked from the SwiftDemand blockchain forked from NEO blockchain) and Universal Basic Income Tokens (UBITs), the electronic cryptocurrency used for all transactions on the UBIC mainnet that will be designed with [low transaction latency](#transaction-latency), the ability to [scale to ever-ascending transactions per second](#ever-ascending-transactions-per-second;TPS), [zero transaction fees](#0-transaction-fees), and [dispute resolution for disputed transactions](#buyer-seller-protections). UBI is distributed on a daily basis to each Citizen. This is the simplest understanding of how this Protocol works.
 
 - [Introduction](#introduction)
 - [Account Types](#account-types)
@@ -208,7 +208,7 @@ Due to the fact that this Protocol directly interacts with the real world throug
 This Protocol is simply the protocol that has been outlined above. The SwiftDemand website will be the initial Identity Provider of this Protocol and all Swifts that exist on SwiftDemand website at the time of launching the UBIC Mainnet will be transferred at a 1:1 ratio, Swifts to UBITs. Citizens will be required to undergo stricter Identity Verification requirements at this time to comply with KYC<sup>[[8]](#8)</sup> and AML<sup>[[9]](#9)</sup>. 
 
 ### SwiftDemand Features
-SwiftDemand was designed to be an extremely user-friendly website and platform that required no prior knowledge of cryptocurrency--setting the standard for future Identity Providers. SwiftDemand provides an API as well as a marketplace to make it as easy as possible to transfer Swifts for goods and services; However, Swiftdemand developerinactivity since the March 2108 auction of 200 million Swift caused this fork.
+SwiftDemand was designed to be an extremely user-friendly website and platform that required no prior knowledge of cryptocurrency--setting the standard for future Identity Providers. SwiftDemand provides an API as well as a marketplace to make it as easy as possible to transfer Swifts for goods and services; However, due to Swiftdemand developer inactivity since the March 2108 auction of 200 million Swift, this fork happened and is still in need of developers proficient in C+ for further development.
 
 ## References
 
