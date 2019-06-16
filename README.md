@@ -5,7 +5,7 @@ The Universal Basic Income Church (UBIC) protocol is the DAO-based implemention 
 Example: **https://www.swiftdemand.com/**
 
 ## Abstract
-The Universal Basic Income Church (UBIC) is the first non-profit Decentralized Autonomous Organization (DAO) with Artificial Intelligence (AI) eventually providing the UBI through UBIC applications(apps), decentralized applications (dapps), programs, blockchains (forked from the SwiftDemand blockchain that forked from NEO blockchain) and the Universal Basic Income Token (UBIT), the electronic cryptocurrency (e-currency) used for all transactions on the UBIC mainnet to be designed with [low transaction latency](#transaction-latency), the ability to [scale to ever-ascending transactions per second](#ever-ascending-transactions-per-second;TPS), [zero transaction fees between Members](#0-transaction-fees), and [dispute resolution for disputed transactions](#buyer-seller-protections) regarding purchases made by Members. UBI is distributed on a daily basis to each Member. This is the simplest understanding of how this Protocol works.
+The Universal Basic Income Church (UBIC) is the first non-profit Decentralized Autonomous Organization (DAO) with Artificial Intelligence (AI) eventually providing the UBI through UBIC applications(apps), decentralized applications (dapps), programs, blockchains (forked from the SwiftDemand blockchain that forked from NEO blockchain) and the Universal Basic Income Token (UBIT), the electronic cryptocurrency (e-currency) used for each transactions (Tx) on the UBIC mainnet to be designed with [low transaction latency](#transaction-latency), the ability to [scale to billons of transactions per second](#billons-of-Tx-per-second;TPS), [zero transaction fees between Members](#0-transaction-fees), and [dispute resolution for disputed Txs](#buyer-seller-protections) regarding purchases made by Members. UBI is distributed on a daily basis to each Member. This is the simplest understanding of how this Protocol works.
 
 - [Introduction](#introduction)
 - [Account Types](#account-types)
@@ -46,13 +46,13 @@ The Universal Basic Income Church (UBIC) is the first non-profit Decentralized A
 - [References](#references)
 
 ## Introduction
-The Universal Basic Income Church (UBIC), Universal Basic Income (UBI) and the Universal Basic Income Token (UBIT) must exist for humans and their world to continue to function as jobs continue to be replaced by AI and automation <sup>[[1]](#1)</sup>. In a world with more abundant human resources than ever before, many still struggle to make ends meet, and it is a primary directive of UBIC to ensure every human has access to the core necessities of life that inlcudes safe water, food, clothing and shelter. This Protocol is the framework for the non profit DAO purposed for distributing UBI to each Member through UBIC's innovative double helix cross-blockchain. The mass adoption of this Protocol will allow the progress of the Universal Basic Income to become realized by each Member of UBIC. This protocol has been designed with practical and proven solutions, with additional functionality to aid in its global adoption.
+The Universal Basic Income Church (UBIC), Universal Basic Income (UBI) and the Universal Basic Income Token (UBIT) must exist for humans to continue to function in our world as jobs are continually replaced by automation and artificial intelligence (AI)<sup>[[1]](#1)</sup>. There are more humans and human resources, less finite reosuces than ever before, and many struggle to eist let alone make ends meet; Therefore, it is the prime directive of UBIC to provide every human with and access to the core necessities of life that inlcudes clean water and air healthy food, renewable clothing, safe prodcuts and shelters constructed with renewable resources that inlcude hemp and structurally engineered hemp products realized through UBIC and UBIC's UBI. Through UBIC's prime directive,innovative double helix cross-blockchain architecture and this protocol, the perpetually growing UBIC will allow the swift progress of UBI to be realized by each Member of UBIC.
 
 ## Account Types
-To create the global electronic cryptocurrency capable of providing UBI to each Member, the following structure is established:
+To create the global electronic cryptocurrency providing UBI to each Member, the following structure is established:
 
-1. AI is the eventual generator of UBITs perpetually filling all UBIC Account(s).
-2. Each Member is unique and is allowed to have one UBIC account for sendng/receiving UBITs.
+1. AI issues UBITs to each Member's account.
+2. Each Member is unique and may have one UBIC account for sendng/receiving UBITs.
 3. Entity accounts must be permitted to exist for business, convenience and privacy reasons.
 4. The system must remain decentralized to avoid single points of failure and central control.
 5. Rules must be able to be modified over time to allow for the changing needs of an active economy.
@@ -60,22 +60,22 @@ To create the global electronic cryptocurrency capable of providing UBI to each 
 Resolving these issues, this protocol establishess 5 different account types that together, fullfil these different responsibilities.
 
 ### The UBIC Account
-The Universal Basic Income Church's account is the initial repository of all Universal Basic Income Tokens (UBITs) generated by UBIC, from which UBITs may be distributed from time to time, to each Member.
+The Universal Basic Income Church's account is the initial repository of all Universal Basic Income Tokens (UBITs) generated by UBIC's AI, from which UBITs, at UBIC's AI's discretion, may be distributed to each Member from time to time.
 
 ### Members
-Members are humans that have been validated by an [Identity Provider](#identity-providers). Members have the ability to add UBIT claims to the UBIC blockchain once every day (days begin and end at midnight UTC; one 24 hour period), and/or once a week (7 x 24 hour periods). UBITs will be awarded based on the number of days passed--with a maximum of seven days. For example, if the three days have passed and a Member makes a claim with the current production rate at 100 UBITs eahc day, 300 UBITs will be awarded (maximum claim/award per week = 700 UBITs).
+Members are living humans that have been validated by an [Identity Provider](#identity-providers). Members have the ability to add UBIT  claims to the UBIC blockchain once every day (days begin and end at midnight UTC; one 24 hour period), or once a week (7 x 24 hour periods) as UBITs will be issued based on the number of days passed, maximum of seven days between claims. Example: if the three days have passed and a Member makes a claim with the current production rate at 100 UBITs each day, 300 UBITs will be awarded (maximum claim per week = 700 UBITs).
 
 ### Entities
-Entities are not humans, and are fictions of humans that Members use(d) to conduct business through; and, therefore, Entities do not receive UBI. Entity accounts must be approved by Identity Providers before being created for a Member. An Identity Provider must be linked to all Entities of Members the Identity Provider has verified, however Identity Providers are not allowed to make transactions on behalf of the UBI Account. Delegated Nodes and Identity Providers both inherit and/or earn UBITs from the UBIC Account.
+Entities are not humans and are fictions Members (have) use(d) to conduct business through; therefore, Entities can not add claims to the blockchain for UBI. Entities must be approved by one or more Identity Providers before being created for a Member. An Identity Provider must be linked to each Entity the Identity Provider has verified for a Meber. Identity Providers are not allowed to make Txs on behalf of UBIC, nor make claims to the UBI Account for UBI. Identity Providers earn UBITs from the UBIC Account for work they have performed.
 
 ### Delegated Nodes
-Delegated Nodes are responsible for maintaining full nodes and creating new blocks. Each election cycle Members will sign votes to help choose which Delegated Nodes they would like to represent them. This means that Delegated Nodes act as elected officials with the capability to vote on proposals that include adding/removing other Delegated Nodes and Identity Providers.
+Delegated Nodes are Members responsible for maintaining full nodes and creating new blocks. Each election cycle each Member will sign votes to help choose which Delegated Nodes they would like to represent them. This means that Delegated Nodes act as elected officials with the capability to vote on proposals that include adding/removing other Delegated Nodes and Identity Providers.
 
 ### Identity Providers
-Identity Providers are responsible for validating the identity of Members and creating new accounts for Members by generating a keypair for each Member and including the identity on the blockchain. Identity Providers have the added responsibility of protecting each Member whose keys they control with buyer and seller protections.
+Identity Providers are Members responsible for validating the identity of Members, creating new accounts for Members by generating a keypair for each Member, and entering the identity on the blockchain. Identity Providers have the added responsibility of protecting each Member whose keys they control with buyer and seller protections.
 
 **Identity Providers** have the following capabilities:
-* Add Members and accounts of Members to the blockchain
+* Add identity of each Member and an account of each Member to the blockchain
 * Freeze/Unfreeze UBI accounts of Members they have verified
 * Make transactions to/from UBI accounts of Members they have verified
 * Delete UBI accounts of Members they have verified
@@ -84,7 +84,7 @@ Identity Providers are responsible for validating the identity of Members and cr
 ## Income Distribution
 The goal of this Protocol's income distribution model is to provide a fair method of providing UBI to each Member. The distribution method also must ensure that the amount of UBITs entering the system should never cause a decrease in value. To more quickly reach the state where a mature economy has formed, early Members will receive extra daily UBITs during Stage One.
 
-UBITs are distributed to each Member on a daily basis with a maximum of 10 unclaimed days of UBITs. A Member must explicitly claim their UBITs at least once every ten days to convert their *Unclaimed UBITs* to normal *UBITs*. Days are marked by blocks that occur between 00:00 UTC to 23:59 UTC.
+UBITs are distributed to each Member on a daily basis with a maximum of 7 unclaimed days of UBITs. A Member must explicitly claim their UBITs at least once every seven days to convert their *Unclaimed UBITs* to normal *UBITs*. Days are marked by blocks that occur between 00:00 UTC to 23:59 UTC.
 
 The total number of UBITs targeted to be added to the economy in Stage One is 70 Billion. After this stage has been reached, Stage Two will limit the amount of new UBITs that enter the economy to a healthy inflation rate.
 
@@ -98,9 +98,9 @@ After the 70 Billion cap has been reached by following the formula of Stage One,
 When a Member joins, there's an option to include the public key of the Member that referred them. Referral bonuses are calculated using `5 * Income Distribution Multiplier`. For example, if there are 100,000 Members at the time of a referral, the bonus would be 500 UBITs. 
 
 ## DAO Based Governance
-Governance is an integral part of this Protocol as it allows for outside data to be safely used for identity verification and economic control. However, the decentralized and autonomous elements of this Protocol allow certain rules to be set in stone. These rules ensure a fair system exists to negate the ability to cheat in a way that is possible with centralized systems.
+Governance is an integral part of this Protocol as it allows for outside data to be safely used for identity verification and economic control. However, the decentralized and autonomous elements of this Protocol allow certain rules to be set in stone. These rules ensure a fair system exists to negate fraud and the ability to cheat in a way that is possible with centralized systems.
 
-This Protocol features an internal system that simulates a decentralized government and stimulates the Member community it is as Members have the responsibility to elect their representatives known as [Delegated Nodes](#delegated-nodes) that will have various powers within their Community. These Delegated Nodes are required to both maintain the blockchain, forge new blocks, and vote on proposals.
+This Protocol features an internal system that simulates a decentralized government, and stimulates the Member community. Members have the responsibility to elect their representatives known as [Delegated Nodes](#delegated-nodes) that will have various powers within their Community. These Delegated Nodes are required to both maintain the blockchain, forge new blocks, and vote on proposals.
 
 ### Election of Delegated Nodes
 Each Member has the ability to cast one vote on the network during each election of Delegated Nodes. The Delegated Nodes that receive the most votes will be elected to serve during that election cycle. The number of Delegated Nodes is decided by the following formula: `Max(10, (members/100000))`
