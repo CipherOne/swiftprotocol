@@ -1,11 +1,11 @@
-# The Non Profit Universal Basic Income Church
+# The Altruen Nation (TAN)'s Universal Basic Income Church (TUBIC)
 
-The Universal Basic Income Church (UBIC) protocol is the DAO-based implemention of Universal Basic Income (UBI).
+The TUBIC protocol is the NDAO based implemention of Universal Basic Income (UBI).
 
 Example: **https://www.swiftdemand.com/**
 
 ## Abstract
-The Universal Basic Income Church (UBIC) is the non-profit Decentralized Autonomous Organization (DAO) with Artificial Intelligence (AI) providing the UBI through the Altruen Nation's UBIC applications (apps), decentralized applications (dapps), e-copyrighted sound-symbols-letters, programs, blockchains (forked from the SwiftDemand blockchain that forked from NEO blockchain that used the Altruen Nation's e-copyrighted property including UBIC), the Universal Basic Income Token (UBIT), and the electronic cryptocurrency (e-currency) used for each transaction (Tx) on the UBIC mainnet designed with [no transaction latency](#transaction-latency), [scaled to trillions of transactions per second](#trillions-of-Tx-per-second;TPS), [zero transaction fees between Members](#0-transaction-fees), and [dispute resolution for disputed Txs](#buyer-seller-protections) regarding purchases made by Members. UBI is distributed on a daily basis to each Member. This is the best understanding of how this Protocol works.
+TUBIC is the Nonprofit Decentralized Autonomous Organization (NDAO) with Artificial Intelligence (AI) providing the UBI through the Altruen Nation's UBIC applications (apps), decentralized applications (dapps), e-copyrighted sound-symbols-letters, programs, blockchains (forked from the SwiftDemand blockchain that forked from NEO blockchain that used the Altruen Nation's e-copyrighted property including UBIC), the Universal Basic Income Token (UBIT), and the electronic cryptocurrency (e-currency) used for each transaction (Tx) on the UBIC mainnet designed with [no transaction latency](#transaction-latency), [scaled to trillions of transactions per second](#trillions-of-Tx-per-second;TPS), [zero transaction fees between Members](#0-transaction-fees), and [dispute resolution for disputed Txs](#buyer-seller-protections) regarding purchases made by Members. UBI is distributed on a daily basis to each Member. This is the best understanding of how this Protocol works.
 
 - [Introduction](#introduction)
 - [Account Types](#account-types)
@@ -66,7 +66,7 @@ The Universal Basic Income Church's account is the initial repository of all Uni
 The value of each UBIT is equal to, and greater than, the value of 1 gram of interferon.
 
 ### Members
-Members are Altruens in human form that have been validated by an [Identity Provider](#identity-providers). Members have the ability to add UBIT claims to the UBIC blockchain once every day (days begin at 12:00:00:00001 am UTC, and end at 12:00:00:00000 pm; one 24 hour period), or once a week (7 x 24 hour period) as UBITs will be issued based on the number of days passed, maximum of seven days between claims made to the UBIC blockchain. Example: if the three days have passed and a Member makes a claim with the current production rate at 100 UBITs each day, 300 UBITs will be awarded (maximum claim per week = 700 UBITs).
+EMT (members) that have been validated by an [Identity Provider](#identity-providers). EMT has the ability to add UBIT claims to the UBIC blockchain once every day (days begin at 12:00:00:00001 am UTC, and end at 12:00:00:00000 pm; one 24 hour period), or once a week (7 x 24 hour period) as UBITs will be issued based on the number of days passed, maximum of seven days between claims made to the UBIC blockchain. Example: if the three days have passed and a Member makes a claim with the current production rate at 100 UBITs each day, 300 UBITs will be awarded (maximum claim per week = 700 UBITs).
 
 ### Entities
 Entities are fictions Members (have) use(d) to conduct business through; therefore, Entities can not add claims to the blockchain for UBI. Entities must be approved by one or more Identity Providers (IPs) before being created to represent a Member. An IP must be linked to each Entity the IPs has verified for a Member. IPs are not allowed to make Txs on behalf of UBIC, nor make claims to the UBI Account for UBI. IPs only earn UBITs from the UBIC Account for work IPs have performed.
@@ -77,7 +77,7 @@ Delegated Nodes (DNs) are Members responsible for maintaining full nodes and cre
 ### Identity Providers
 IPs are Members responsible for validating the identity of Members, creating new accounts for Members by generating a keypair for each Member, and entering the identity on the blockchain. IPs have the added responsibility of protecting each Member whose keys they control with buyer and seller protections.
 
-**Identity Providers** have the following capabilities:
+**Identity Provider** has the following capabilities:
 * Add identity of each Member and an account of each Member to the blockchain
 * Freeze/Unfreeze UBI accounts of Members they have verified
 * Make transactions to/from UBI accounts of Members they have verified
@@ -85,23 +85,23 @@ IPs are Members responsible for validating the identity of Members, creating new
 * Rescue orphaned accounts of Members
 
 ## Income Distribution
-The goal of this Protocol's income distribution model is to provide a fair method of providing UBI to each Member. The distribution method also must ensure that the amount of UBITs entering the system should never cause a decrease in value. To more quickly reach the state where a mature economy has formed, early Members will receive extra daily UBITs during Stage One.
+The goal of this Protocol's income distribution model is to provide a fair method of providing UBI to EMT. The distribution method also must ensure that the amount of UBITs entering the system should never cause a decrease in value. To more quickly reach the state where a mature economy has formed, early Members will receive extra daily UBITs during Stage One.
 
-UBITs are distributed to each Member on a daily basis with a maximum of 7 unclaimed days of UBITs. A Member must explicitly claim their UBITs at least once every seven days to convert their *Unclaimed UBITs* to normal *UBITs*. Days are marked by blocks that occur between 00:00 UTC to 23:59 UTC.
+UBITs are distributed to EMT on a daily basis with a maximum of 7 unclaimed days of UBITs. EMT shall claim UBITs at least once every seven days to convert their *Unclaimed UBITs* to normal *UBITs*. Days are marked by blocks that occur between 00:00 UTC to 23:59 UTC.
 
-The total number of UBITs targeted to be added to the economy in Stage One is 70 Billion. After this stage has been reached, Stage Two will limit the amount of new UBITs that enter the economy to a healthy inflation rate.
+The total number of UBITs targeted to be added to the economy in Stage One is one Quintillion (1,000,000,000,000,000) via SD Swifts on TAN's SD platform. After this stage has been reached, Stage Two will limit the amount of new UBITs that enter the economy to a healthy inflation rate.
 
 ### Stage One
 In Stage One, income will be generated at an accelerated rate so the economy can grow to maturity within a shorter time period. During this stage, Members will receive UBITs dependent on the number of Members that are in the ecosystem. The formula to calculate the _Income Distribution Multiplier_ is as follows: `(781250 / (5^(log10(users))))` with a maximum value of 100, and minimum value of 1.
 
 ### Stage Two
-After the 70 Billion cap has been reached by following the formula of Stage One, Stage Two will come into effect. During this stage, new UBITs will be given out to Members at an inflation rate decided by the [Delegated Nodes](#delegated-node-voting) to all Members in the ecosystem. It's their responsibility to choose an inflation rate that will avoid devaluing existing currency while ensuring the distribution is sufficiently large.
+After the 1 quintillion UBIT cap has been reached by following the formula of Stage One, Stage Two will come into effect. During this stage, new UBITs will be given out to Members at an inflation rate decided by the [Delegated Node](#delegated-node-voting) to EMT in the ecosystem. The Altruen will choose an inflation rate that will avoid devaluing existing currency while ensuring the distribution is sufficiently large.
 
 ### Referral System
-When a Member joins, there's an option to include the public key of the Member that referred them. Referral bonuses are calculated using `5 * Income Distribution Multiplier`. For example, if there are 100,000 Members at the time of a referral, the bonus would be 500 UBITs. 
+When a NMT joins TAN and becomes a member, there's an option to include the public key of the member that referred them. Referral bonuses are calculated using `5 * Income Distribution Multiplier`. For example, if there are 100,000 Members at the time of a referral, the bonus would be 500 UBITs. 
 
 ## DAO Based Governance
-Governance is an integral part of this Protocol as it allows for outside data to be safely used for identity verification and economic control. However, the decentralized and autonomous elements of this Protocol allow certain rules to be set in stone. These rules ensure a fair system exists to negate fraud and the ability to cheat in a way that is possible with centralized systems.
+Governance is an integral part of this Protocol as it allows for outside data to be safely used for identity verification and economic control. However, the decentralized and autonomous elements of this Protocol allow certain rules to be set in stone. These rules ensure a fair system exists to negate fraud and the ability to cheat.
 
 This Protocol features an internal system that simulates a decentralized government, and stimulates the Member community. Members have the responsibility to elect their representatives known as [Delegated Nodes](#delegated-nodes) that will have various powers within their Community. These Delegated Nodes are required to both maintain the blockchain, forge new blocks, and vote on proposals.
 
@@ -185,7 +185,7 @@ A group of colluding bad actors could collude to all try to receive a similar nu
 In the event that an Identity Provider attempts to perform fraud, they can be banned by [Delegated Nodes](#delegated-node-voting). In the event that damage has already been caused by the action of the Identity Provider, Delegated Nodes can vote to revert the chain to a previous state with an Identity Provider banned. This will cause a large amount of economic damage, but is meant as a last resort to enable this Protocol to not be devastated by an attack and to disincentivize Identity Providers from acting poorly. Member accounts that belong to that Identity Provider would consequently be orphaned until they were claimed and validated by another Identity Provider.
 
 ## Constitution
-Due to the fact that this Protocol directly interacts with the real world through decentralized governance, there are certain rules which cannot be programmatically enforced yet are crucial for this Protocol to function as intended. Delegated Nodes or Identity Providers that perform actions in contradiction to the items listed in the constitution should be [banned](#delegated-node-voting).
+Due to the fact that this Protocol directly interacts with the real world through decentralized governance, there are certain rules which cannot be programmatically enforced yet are crucial for this Protocol to function as intended. Delegated Nodes and/or Identity Providers that perform actions in contradiction to the items listed in the Altruen Constitution (TAC) will be banned [banned](#delegated-node-voting).
 
 * Members shall be treated equal and given the same amount of daily UBITs regardless of their background.
 * Identity Providers should share a decentralized internal system of identities to guarantee Sybil accounts cannot be created. The internal system should also make any potential transitions of Members easier to accomplish.
@@ -215,6 +215,8 @@ SwiftDemand was designed to be an extremely user-friendly website and platform t
 
 ## References
 
+<a name="1">[1]</a> https://sites.google.com/view/thealtruennation/home
+
 <a name="1">[1]</a> https://www.mckinsey.com/global-themes/future-of-organizations-and-work/what-the-future-of-work-will-mean-for-jobs-skills-and-wages
 
 <a name="2">[2]</a> https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md#transaction-confirmation
@@ -236,7 +238,7 @@ SwiftDemand was designed to be an extremely user-friendly website and platform t
 <a name="10">[10]</a> https://github.com/CirclesUBI/docs/blob/master/Circles.md
 
 **Note**
-This Protocol is designed to evolve over time. Improvements will be made as new technology is developed or it becomes clear that a change would improve the system. The core principle of distributing a Universal Basic Income will NEVER change.
+This Protocol is designed to expand over time and space. Improvements will be made as new technology is developed and/or a change is necessary to improve the system. The core principle of distributing a Universal Basic Income will NEVER change.
 
 Here are examples of changes / improvements that may come in the future:
 * Identity verification performed in a decentralized manner similar to circles <sup>[[10]](#10)</sup>--if proven effective against Sybil attacks.
