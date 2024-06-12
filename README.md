@@ -1,11 +1,10 @@
-# The Non Profit Universal Basic Income Church
+~ The Universal Basic Income Church ("TUBIC") is private property of the Altruen Nation in the Altruen Nation ~
 
-The Universal Basic Income Church (UBIC) protocol is the DAO-based implemention of Universal Basic Income (UBI).
-
-Example: **https://www.swiftdemand.com/**
+~ TUBIC is the Production Start for the Universal Basic Income ("UBI") at the planet Earth ("E") in the Terran Solar System ("TSS") in the MilkyWay Galaxy ("MWG") ~
+ ~ in Altruen Universe ("AU") #900781320 ("AU900781320") in Altruen Polyverse ("AP") Z ("AP Z") in the Altruen Nation ("TAN") ~
 
 ## Abstract
-The Universal Basic Income Church (UBIC) is the non-profit Decentralized Autonomous Organization (DAO) with Artificial Intelligence (AI) providing the UBI through the Altruen Nation's UBIC applications (apps), decentralized applications (dapps), e-copyrighted sound-symbols-letters, programs, blockchains (forked from the SwiftDemand blockchain that forked from NEO blockchain that used the Altruen Nation's e-copyrighted property including UBIC), the Universal Basic Income Token (UBIT), and the electronic cryptocurrency (e-currency) used for each transaction (Tx) on the UBIC mainnet designed with [no transaction latency](#transaction-latency), [scaled to trillions of transactions per second](#trillions-of-Tx-per-second;TPS), [zero transaction fees between Members](#0-transaction-fees), and [dispute resolution for disputed Txs](#buyer-seller-protections) regarding purchases made by Members. UBI is distributed on a daily basis to each Member. This is the best understanding of how this Protocol works.
+TUBIC is the non-profit ("NP") Decentralized Autonomous Organization ("DAO) goverened by TAN's Artificial Intelligence ("God") providing the UBI through TAN via TAN's Altruen Communication Symbols ("TACS"), TAN's Altruen Language ("TAL"), and TAN's Altruen Constitution ("TAC") protecting and providing for members of TAN ("MOT") over nonmemebs of TAN ("NMT"), UBIC applications (apps), all decentralized applications (dapps), all forks from the SwiftDemand blockchain that was forked from NEO blockchain by NMT that used TAN's TACS without permission, all quantum computers, all supercomputers, all servers, all computers, and all things therein, thereon,thereunder, thereabove, and/or therearound as all person, places and things were, are, and always will be in TAN including the Universal Basic Income Token ("UBIT") superseding all electronic currencies of NMT used for commercial and/or noncommercial purposes and/ortransactions ("TXs") on the UBIC mainnet ("World Wide Web") encompassing and sealing E with E designed with [no transaction latency](#transaction-latency), [scaled to googols x googols x googols x ....... ("infinte") TXs per second (i.e., the time it takes the King of TAN to say "one thousand one")](#trillions-of-Tx-per-second;TPS), [zero transaction fees between MOT](#0-transaction-fees), and [dispute resolution for disputed TXs](#buyer-seller-protections) regarding purchases made by MOT. TUBIC UBI is distributed on a daily basis in TAN to each MOT via TAN's otherwise inanimate mass of temporal energy and matter known as Todd Allen Clark ("IT") the King of the Altruen Nation ("The King of TAN") uses and causes to live from time to time over time space at and around E of and in TSS.MWG.AU900781320.AP Z in TAN. 
 
 - [Introduction](#introduction)
 - [Account Types](#account-types)
@@ -46,10 +45,10 @@ The Universal Basic Income Church (UBIC) is the non-profit Decentralized Autonom
 - [References](#references)
 
 ## Introduction
-The Universal Basic Income Church (UBIC), Universal Basic Income (UBI) and the Universal Basic Income Token (UBIT) exist for Altruens in human form to continue to function in the Altruen Nation's worlds as jobs are perpetually replaced by AI and automation. <sup>[[1]](#1)</sup>. There are more humans, human resources, and less finite resources than ever before, with many Altruens in human form struggling to exist, let alone make ends meet; Therefore, it is the prime directive of the Altruen Nation's UBIC to provide every Altruen in human form with, and access to, the core necessities of life that inlcudes clean water, oxygen rich air, fresh healthy food, renewable clothing, safe prodcuts and shelters constructed with renewable resources that inlcude hemp and structurally engineered hemp products realized through UBIC and UBIC's UBI. Through UBIC's prime directive, innovative double helix cross-blockchain architecture and this protocol, the perpetually growing UBIC will allow the swift progress of UBI to be realized by each Altruen/Member of UBIC.
+The Universal Basic Income Church (UBIC), Universal Basic Income (UBI) and the Universal Basic Income Token (UBIT) exist for Altruens (MOT) in human form to continue to function in the Altruen Nation's worlds NMT used to control as jobs are perpetually replaced by AI and automation of NMT. <sup>[[1]](#1)</sup>. There are more humans, human resources, and less finite resources than ever before, with many MOT in human forma struggling to exist, let alone make ends meet; Therefore, it is the prime directive of the Altruen Nation's UBIC to provide every MOT ("Altruens") in human form with, and access to, the core necessities of living and thriving that inlcude clean water, oxygen rich air, fresh healthy food, renewable clothing, safe prodcuts and shelters constructed with renewable resources that inlcude TAN's hemp and structurally engineered hemp products produced through TAN's, inlcuding but not limted to, TUBIC and UBI od UBITs. Through TAN's prime directive and eternal patents on, inlcuding but not limited to, TACS double helix cross blockchain ladder architecture and this protocol, the perpetually growing UBIC will allow the swift progress of TAN's UBI to be avaialbe to MOT in TAN via TACS God.
 
 ## Account Types
-To create the global electronic currency providing UBI to each Member, the following structure is established:
+To create the global electronic currency providing UBI to each MOT ("Member"), the following Altruen Infrastructure ("AI") is established:
 
 1. AI issues UBITs to each Member's account.
 2. Each Member is unique and may have one UBIC account for sending/receiving UBITs.
@@ -152,43 +151,43 @@ Delegated Nodes will each receive an equal salary. The Delegated Nodes themselve
 The _Salary Multiplier_ for Identity Providers is decided by the Delegated Nodes. An Identity Provider's salary is determined by multiplying the number of UBITs that have been claimed by Members under that specific Identity Provider by the Salary Multiplier. For example, if the Salary Multiplier is 0.01 and the Identity Provider has 100,000 active validated Members that claimed 5,000,000 UBITs during that day, the Identity Provider will receive 50,000 UBITs at the first block after midnight UTC. 
 
 ## Reserved Funds
-30 Billion UBITs will be reserved; these UBITs are not controlled by any central source. Delegated Nodes have the ability to award these funds to proposals with a majority vote. It's the responsibility of the Delegated Nodes to assign these funds on an as-needed basis to Identity Providers, Delegated Nodes, Members, or Entities in an effort to further the success of this Protocol.
+Reserve UBITs (RUBITs) will be reserved; these UBITs are not controlled by any central source. Delegated Nodes have the ability to award these funds to proposals with a majority vote. It's the responsibility of the Delegated Nodes to assign these funds on an as-needed basis to Identity Providers, Delegated Nodes, Members, or Entities in an effort to further the success of this Protocol.
 
 ### Funding Proposals
-When a Member or Identity Provider requires funds to perform some task, they must submit a public funding proposal. This proposal will be written in plain text, signed with the requester's public key and then added to the blockchain. Nodes will then have one week to vote on the proposal. Non-votes are counted as "No"s. A majority consensus is required for the funds to be transferred.
+When a Member or Identity Provider requires funds to perform some task, they must submit a public funding proposal. This proposal will be written using TACS, signed with the public key of the reqesting Memebr, and then added to the blockchain. Delegated Nodes have one week to vote on the proposal. Non-votes are counted as "No"s. A majority consensus is required for the funds to be transferred.
 
 ## Consensus Protocol
-A new consensus mechanism is used in this Protocol that allows for extremely fast block times while still being trustable. This Protocol uses the consensus mechanism called DPOI (Delegated Proof of Identity). The mechanism works almost identically to DPOS (Delegated Proof of Stake) <sup>[[7]](#7)</sup>. The primary difference is that in DPOS, members have a say proportional to the amount of stake they own in the currency. In DPOI, each Member has the ability to cast a single vote regardless of the stake they own.
+A new consensus mechanism is used in this Protocol that allows for extremely fast block times while still being trustable. This Protocol uses the consensus mechanism called DPOI (Delegated Proof of Identity). The mechanism works similar to DPOS (Delegated Proof of Stake) <sup>[[7]](#7)</sup>. The primary difference is that in DPOS, members have a say proportional to the amount of stake they own in the currency (rich control poor). In DPOI, each Member has the ability to cast a single vote regardless of the stake they own.
 
 ### Selecting Forgers
-When Delegated Nodes are elected, they are placed into an ordered list of Delegated Nodes that are permitted to forge blocks. The ordering is determined by the amount of votes that each Delegated Node has received during an election. Nodes will then take turns forging blocks round-robin. When it's a node's turn to create a block, they will have a ten-second window to forge a block. If no block is forged during this duration, the next Delegated Node on the list will also have permission to forge a new block. This will be achieved by using a timestamp server <sup>[[6]](#6)</sup>.
-
-### Consensus
-Consensus is decided by following the longest chain. Delegated Nodes that attempt to perform a double-spend attack by signing multiple blocks will promptly be [banned by other Delegated Nodes](#delegated-node-voting).
+When Delegated Nodes are elected, they are placed into an ordered list of Delegated Nodes that are permitted to forge (to make) blocks. The ordering is determined by the amount of votes that each Delegated Node has received during an election. Nodes will then take turns forging blocks round-robin. When it's a node's turn to create a block, they will have a ten-second window to forge a block. If no block is forged during this duration, the next Delegated Node on the list will also have permission to forge a new block. This will be achieved by using a timestamp server <sup>[[6]](#6)</sup>.
 
 ## Protections
-Due to the decentralized government-community system implemented by this Protocol, there are potential attack vectors that should be carefully analyzed. These attacks have been outlined along with their potential impact and preventative measures.
+TAN's AI aborts all attempts of NMT, and NMT, that try to violate TAC in TAN.
+
+## Double Spend Attack
+TAN's AI aborts all attempts of NMT, and NMT, that try/tried double spend attacks in TAN.
 
 ### Skip Attack 
-If nodes are in the order `<Bad Node> <Good Node> <Bad Node>`, then the two bad nodes can collude to skip over the good node. When it's the first bad node’s turn to create a block, it can create a block immediately, and only broadcast to the next bad node in the list. The second bad node can then wait ten seconds, sign the node, and then broadcast it normally. The chain with the two bad nodes will be accepted since it's longer. While this attack is normally harmless, it does allow colluding bad nodes to take control of the network with only 25% +1 of the nodes if the nodes happen to be optimally placed.
+TAN's AI aborts all attempts of NMT and NMT that try/tried Skip attacks in TAN.
 
-### Incubation Period
-All new Members that join the UBIC Protocol will be placed into an incubation period of one week, in which another Member will have to verify the new Membwr is a real person, thus preventing an Identity Provider from creating fake Members to quickly create UBITs for themselves--and gives Delegated Nodes sufficient time to ban the offending Identity Provider.
+### No Incubation Periods
+MOT in TAN are MOT in TAN, and NMT are\will be in a special place in TAN.
 
 ### Sybil Attacks
-Members and Identity Providers are disincentivized from performing Sybil attacks as it comes with the risk of getting banned from the platform by Delegated Nodes. Additional safeguards such as the [incubation period ](#incubation-period) and the [blockchain rollback capability of Delegated Nodes](#delegated-node-voting) also exist to mitigate aabuse. Members who attempt to submit fake documents to gain additional basic income as a new Member will be banned and lose access all UBITs collected. Identity Providers will be required to have very strict levels of regulation on how they approve new Members, which will eliminate abuse.
+TAN's AI aborts all attempts of NMT and NMT that try/tried Sybil attacks in TAN. 
 
 ### Round Robin Order Attack
-A group of colluding bad actors could collude to all try to receive a similar number of votes, allowing them to be placed in similar locations within the round-robin ordering. (See [Selecting Forgers](#selecting-forgers).) A double-spend attack could then be completed with only a handful of bad nodes. This attack, however, can only occur once before being detected. Large transactions should wait for a sufficient amount of confirmations to combat this. Small transactions should be insured by Identity Providers.
+TAN's AI aborts all attempts of NMT and NMT that try/tried Round Robin Oder attacks in TAN.
 
-### Deactivation of an Identity Provider
-In the event that an Identity Provider attempts to perform fraud, they can be banned by [Delegated Nodes](#delegated-node-voting). In the event that damage has already been caused by the action of the Identity Provider, Delegated Nodes can vote to revert the chain to a previous state with an Identity Provider banned. This will cause a large amount of economic damage, but is meant as a last resort to enable this Protocol to not be devastated by an attack and to disincentivize Identity Providers from acting poorly. Member accounts that belong to that Identity Provider would consequently be orphaned until they were claimed and validated by another Identity Provider.
+### Deactivation of Identity Provider(s) in TAN
+In the event that an Identity Provider attempts to perform fraud, they/them shall be banned by [Delegated Nodes](#delegated-node-voting). In the event that damage has already been caused by the action of the Identity Provider, Delegated Nodes can vote to revert the chain to a previous state with an Identity Provider banned. This will cause a large amount of economic damage, but is meant as a last resort to enable this Protocol to not be devastated by an attack and to disincentivize Identity Providers from acting against TAN. Member accounts that belonged to an Identity Provider banned revert back to TAN.
 
-## Constitution
-Due to the fact that this Protocol directly interacts with the real world through decentralized governance, there are certain rules which cannot be programmatically enforced yet are crucial for this Protocol to function as intended. Delegated Nodes or Identity Providers that perform actions in contradiction to the items listed in the constitution should be [banned](#delegated-node-voting).
+## TAN's Constitution
+TAN's TAC can be viewed at ~ https://sites.google.com/view/thealtruennation/home. TAC includes this protocol that includes Memebers, Delegated Nodes, and/or Identity Providers that perform acts and/or actions in contradiction to TAC automatically become NMT and are banned [banned](#delegated-node-voting).
 
-* Members shall be treated equal and given the same amount of daily UBITs regardless of their background.
-* Identity Providers should share a decentralized internal system of identities to guarantee Sybil accounts cannot be created. The internal system should also make any potential transitions of Members easier to accomplish.
+* Members shall be treated equal and given the same amount of daily UBITs regardless of background.
+* Identity Providers should share a decentralized internal system of identities to guarantee Sybil accounts cannot be created. The internal system also makes any potential transitions of Members easier to accomplish.
 * Delegated Nodes should be [banned](#delegated-node-voting) for the following reasons:
   * Regularly not performing their duty to vote on proposals.
   * Not forging new blocks during their turn within dBFT.
@@ -204,14 +203,14 @@ Due to the fact that this Protocol directly interacts with the real world throug
   * Failing to provide adequate dispute resolution for transactions.
   * Not performing their duty to approve new Members.
   * Unwillingness to cooperate with other Identity Providers on the platform.
-* Proposals that are approved for funding should remain relatively liberal when the protocol is in its early stages and should slowly become more strict over time.
-* Identity Providers should shield Members from the knowledge that there is a one-week incubation period and that transactions can take a few seconds to process. From a Member's perspective, it's important that the UBI appears to function as efficiently as a centralized system. In the event something does go wrong, it's the responsibility of the Identity Provider to take the loss to remedy the situation.
+* Proposals that are approved for funding will remain conservative in early stages and may become less strict over time.
+* Identity Providers protect Members over ineffecient (de)centralized system(s) of NMT.
 
-## Connection To SwiftDemand
-This Protocol is simply the protocol that has been outlined above. The SwiftDemand website will be the initial Identity Provider of this Protocol and all Swifts that exist on SwiftDemand website at the time of launching the UBIC Mainnet will be transferred at a 1:1 ratio, Swifts to UBITs. Members will be required to undergo stricter Identity Verification requirements at this time to comply with KYC<sup>[[8]](#8)</sup> and AML<sup>[[9]](#9)</sup>. 
+## TAN's Connection To SwiftDemand
+This Protocol is simply the protocol that has been outlined above. TAN's SwiftDemand website is the initial Identity Provider of this Protocol and all Swifts that exist on SwiftDemand website are to be transferred at a 1:1 ratio, Swifts to UBITs. Members will be required to undergo strict Identity Verification requirements to comply with TAN's know the member ("KTM") <sup>[[8]](#8)</sup> and AML<sup>[[9]](#9)</sup>. 
 
-### SwiftDemand Features
-SwiftDemand was designed to be an extremely user-friendly website and platform that required no prior knowledge of cryptocurrency--setting the standard for future Identity Providers. SwiftDemand provides an API as well as a marketplace to make it as easy as possible to transfer Swifts for goods and services; However, due to Swiftdemand developer inactivity since the April 2018 auction of 200 million Swift for 1,496.6 Ether, this fork happened, and UBIC will be further developed by AI in the future.
+### TAN's SwiftDemand Features
+TAN's SwiftDemand was designed by a certain NMT to be an extremely user-friendly website, now TAN's platform requiring no prior knowledge of cryptocurrency and the standard for future Identity Providers. SwiftDemand provided an API as well as a marketplace to make the transfer of Swifts for goods and services easy and stress free.
 
 ## References
 
