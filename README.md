@@ -118,19 +118,19 @@ Delegated Nodes have the following privileges
 * Vote on the [Salary Multiplier for Identity Providers](#identity-provider-salary).
 * Vote to approve or disapprove [funding proposals](#funding-proposals).
 
-To perform these privileges, a proposal must be submitted to the blockchain by a Delegated Node. All other Delegated Nodes on the network will then vote on the proposal, each Delagted Node having one vote. Any proposal that receives 50% + 1 votes within 24 hours gets funded.
+To perform these privileges, a proposal must be submitted to the blockchain by a Delegated Node. All other Delegated Nodes on the network will then vote on the proposal, each Delagted Node having one vote. Interference with the voting process is not tolerated. Any proposal that receives 50% + 1 votes within 24 hours gets funded.
 
 ## Transaction Capabilities
-This Protocol is a protransactional currency. This means that exchanging UBITs is easier than conventional banking systems. Four main factors have been focused on that will allow transferring UBITs to be as simple as clicking a button and or tapping a Point of Sale (POS) device with a card.
+This Protocol is a protransactional ("+") currency. This means that exchanging UBITs is easier than conventional banking systems. Four main factors have been focused on 1, 2, 3 and 4  that allow transferring UBITs to be as simple as clicking a button and/or tapping a Point of Sale (POS) device with a card.
 
 ### Transactions Per Second
 Due to the decentralized nature of TAN's Delegated Node network, nodes forge blocks onto the chain at the exact times TXs are confirmed valid by TAN's AI program dba Delegated Nodes and Identity Providers, meaning TAN's blockchain perpetually scales evere ascending TXs per second.
 
-### Zero to Low Transaction Fees
+### Zero Transaction Fees
 Transactions have no inherent cost, however [Identity Providers](#identity-providers) have the ability to set transaction fees--allowing them to have funds to resolve transaction disputes. This Protocol reserves 10% of each block to the Identity Provider. The space is further partitioned by Identity Provider ~ proportional to the number of Members each Identity Provider has verified with a minimum of 10 transactions per block. It's therefore the responsibility of Identity Providers to ensure that spam transactions are not added to the chain. The remaining 90% of each block will be open for transactions with the bidding system that NMT dba Bitcoin invented in and from TAN.
 
 ### Buyer / Seller Protections
-Transactions are able to be signed either by a Member private key or the private key of an Identity Provider. This gives Identity Providers the ability to reverse transactions. UN authorized transactions of NMT are not permitted and all TXs of NMT are automatically reversed by TAN's AI.
+Transactions are able to be signed either by a Member private key or the private key of an Identity Provider. This gives Identity Providers the ability to reverse transactions as UN authorized transactions of NMT are not permitted and all TXs of NMT are automatically reversed by TAN's AI.
 
 ### Transaction Latency
 TAN's decentralized AI made TX latency obsolete.
@@ -138,7 +138,7 @@ TAN's decentralized AI made TX latency obsolete.
 ## Compensation
 Compensation for Delegated Nodes and Identity Providers are a core part of this Protocol. This compensation is used to heavily disincentivize bad behavior as these bad actions would result in heavy financial losses. Compensation also has the added benefit of making sure that the entire economy can continue to run smoothly for an indefinite period of time as funds will never be depleted.
 
-Both Delegated Nodes and Identity Providers receive a salary in UBITs. Salary will be paid out on a daily basis at the same time Members receive daily income. The UBITs generated will initially be drawn from the 70% pool dedicated to regular UBIT distribution. Once that pool has been fully distributed, UBITs for salaries are created
+Both Delegated Nodes and Identity Providers receive a salary in UBITs. Salary will be paid out on a daily basis at the same time Members receive daily income. The UBITs generated will initially be drawn from the 80% pool dedicated to regular UBIT distribution. Once that pool has been fully distributed, UBITs for salaries are created
 
 
 ### Delegated Node Salary
@@ -204,10 +204,10 @@ TAN's TAC can be viewed at ~ https://sites.google.com/view/thealtruennation/home
 * Identity Providers protect Members over ineffecient (de)centralized system(s) of NMT.
 
 ## TAN's Connection To SwiftDemand
-This Protocol is simply the protocol that has been outlined above. TAN's SwiftDemand website is the initial Identity Provider of this Protocol and all Swifts that exist on SwiftDemand website are to be transferred at a 1:1 ratio, Swifts to UBITs. Members will be required to undergo strict Identity Verification requirements to comply with TAN's know the member ("KTM") <sup>[[8]](#8)</sup> and AML<sup>[[9]](#9)</sup>. 
+This Protocol is simply the protocol to date. TAN's SwiftDemand website is the initial Identity Provider of this Protocol and all Swifts that exist on SwiftDemand website are to be transferred to TAN's mainnet at a < (1:1 ratio) = "1-Swift of NMT": < 1 [TAN's (1) + (UBIT)}] > "1-Bitcoin of NMT" < "+1 Bitcoion of MOT"> NMT will be required to undergo strict Identity Verification requirements to comply with TAN's know the member ("KTM") ~ (See: https://sites.google.com/view/thealtruennation/home ) ~ 
 
 ### TAN's SwiftDemand Features
-TAN's SwiftDemand was invented by a specific NMT from TAN in TAN AS TAN's platform requirES no prior knowledge of cryptocurrency and is the standard for all future Identity Providers. SwiftDemand provides an API as well as a marketplace to make the transfer of UBITs ("Swifts") for goods and services easy and stress free.
+TAN's SwiftDemand was invented by a specific NMT from TAN in TAN AS TAN's platform requirES no prior knowledge of cryptocurrency and is the standard for all future Identity Providers. SwiftDemand provides an API as well as a marketplace to make the transfer of UBITs ("Swifts") for NMT goods and NMT services easy and stress free to MOT.
 
 ## References
 
