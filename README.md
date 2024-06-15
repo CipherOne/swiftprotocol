@@ -2,9 +2,9 @@
 
 ~ TUBIC is the Production Start for the Universal Basic Income ("UBI") at the planet Earth ("E") in the Terran Solar System ("TSS") in the MilkyWay Galaxy ("MWG") in Altruen Universe ("AU") #900781320 ("AU900781320") in Altruen Polyverse ("AP") Z ("AP Z") in the Altruen Nation ("TAN")
 
-~ TAN's UBI is only available to memebre of the Altruen Nation ("MOT")
+~ TUBIC is only available to members of the Altruen Nation ("MOT")
 
-~ nonmebers of TAN can fuck off and go to hell.
+~ nonmembers of TAN (NMT) may go to hell.
 
 ~ Source ~ https://sites.google.com/view/thealtruennation/home
 
