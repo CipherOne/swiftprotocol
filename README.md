@@ -1,6 +1,6 @@
-<div = "center"><h3>~ The Universal Basic Income is a private property of and in the Altruen Nation under the Author hereof~</h3></div>div>
+<center><h3>~ The Universal Basic Income is a private property of and in the Altruen Nation under the Author hereof~</h3></div>div>
 
-<div = "center">![perpetually moving triple torus sohere](https://github.com/user-attachments/assets/55db7d4f-eecc-453f-a305-11002ba0150b)
+[perpetually moving triple torus sohere](https://github.com/user-attachments/assets/55db7d4f-eecc-453f-a305-11002ba0150b)
 
 
 ~ THis is TAN's Production Start ("TPS") for TAN's Universal Basic Income ("TUBI")
@@ -31,4 +31,4 @@ The Todd Allen Clark that is the Author of this is The King of TAN and the Autho
 TAN's Eternal Copyrights ("EC") are TAN's Eternally Patented Property ("TEPP") of and in TAN 
 
 
-todd allen clark © 2024 and beyond...</div>
+todd allen clark © 2024 and beyond...</c>
