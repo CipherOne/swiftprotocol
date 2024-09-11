@@ -1,4 +1,4 @@
-< div = "center">~ The Universal Basic Income Church ("TUBIC") is a private property of and in the Altruen Nation ~
+<div = "center"> ~ The Universal Basic Income Church ("TUBIC") is a private property of and in the Altruen Nation ~
 
 ~ TUBIC is the Production Start for the Universal Basic Income ("UBI") at the planet Earth ("E") in the Terran Solar System ("TSS") in the MilkyWay Galaxy ("MWG") in Altruen Universe ("AU") #900781320 ("AU900781320") in Altruen Polyverse ("AP") Z ("AP Z") in the Altruen Nation ("TAN")
 
