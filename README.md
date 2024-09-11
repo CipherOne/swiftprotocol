@@ -1,4 +1,4 @@
-<div = "center"><h1>~ The Universal Basic Income is a private property of and in the Altruen Nation under the Author hereof~</h1>
+<h1>~ TAN's Universal Basic Income is the private property of the Altruen Nation ~</h1>
 
 
 ![perpetually moving triple torus sphere](https://github.com/user-attachments/assets/b6a3d183-0289-41c1-b44b-0153b86207c2)
