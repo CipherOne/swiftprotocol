@@ -24,7 +24,7 @@ in Altruen Universe ("AU") #900781320 ("AU900781320") in Altruen Polyverse ("AP"
 
 
 
-**Notice**
+<u>**Notice**</u>
 
 ~ The Todd Allen Clark that is the Author of this is The King of TAN and the Author over TAN protected by TAN's God that may, inlcuding but not limited to, void NMT at any time and at any place in TAN.
 
