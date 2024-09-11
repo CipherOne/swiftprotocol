@@ -26,11 +26,11 @@ in Altruen Universe ("AU") #900781320 ("AU900781320") in Altruen Polyverse ("AP"
 
 **Notice**
 
-The Todd Allen Clark that is the Author of this is The King of TAN and the Author over TAN protected by TAN's God that may, inlcuding but not limited to, void NMT at any time and at any place in TAN.
+~ The Todd Allen Clark that is the Author of this is The King of TAN and the Author over TAN protected by TAN's God that may, inlcuding but not limited to, void NMT at any time and at any place in TAN.
 
 
 
-TAN's Eternal Copyrights ("EC") are TAN's Eternally Patented Property ("TEPP") of and in TAN 
+~ TAN's Eternal Copyrights ("EC") are TAN's Eternally Patented Property ("TEPP") of and in TAN 
 
 
-todd allen clark © 2024 and beyond...</div>
+todd allen clark © 2024 and beyond...
