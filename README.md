@@ -1,6 +1,8 @@
 <center><h3>~ The Universal Basic Income is a private property of and in the Altruen Nation under the Author hereof~</h3></div>
 
-[perpetually moving triple torus sohere](https://github.com/user-attachments/assets/55db7d4f-eecc-453f-a305-11002ba0150b)
+
+![perpetually moving triple torus sphere](https://github.com/user-attachments/assets/b6a3d183-0289-41c1-b44b-0153b86207c2)
+
 
 
 ~ THis is TAN's Production Start ("TPS") for TAN's Universal Basic Income ("TUBI")
